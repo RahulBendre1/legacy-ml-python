@@ -11,3 +11,4 @@ on GitHub/[llSourcell](https://github.com/llSourcell)
 
 ## Roadmap: How to Learn Machine Learning in 6 Months
 on YouYube/[?v=MOdlp1d0PNA](https://www.youtube.com/watch?v=MOdlp1d0PNA)
+on Medium/[@thisismetis/roadmap-how-to-learn-machine-learning-in-6-months-7c501889b545](https://medium.com/@thisismetis/roadmap-how-to-learn-machine-learning-in-6-months-7c501889b545)
