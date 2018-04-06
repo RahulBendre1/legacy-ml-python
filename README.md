@@ -10,3 +10,4 @@ on GitHub/[llSourcell](https://github.com/llSourcell)
 
 
 ## Roadmap: How to Learn Machine Learning in 6 Months
+on YouYube/[?v=MOdlp1d0PNA](https://www.youtube.com/watch?v=MOdlp1d0PNA)
