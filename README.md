@@ -112,6 +112,7 @@ developed by [Kaggle](https://www.kaggle.com)
 Catalog/[data-science](https://www.codecademy.com/catalog/subject/data-science)
 [Bash](https://www.codecademy.com/catalog/language/bash)
 [SQL](https://www.codecademy.com/catalog/language/sql)
+[Introduction to Data Analysis](https://www.codecademy.com/pro/intensive/introduction-to-data-analysis)
 
 
 ## Kaggle
