@@ -60,6 +60,7 @@ by 3Blue1Brown
 by MIT
 
 [Vector_space](https://en.wikipedia.org/wiki/Vector_space)
+[Matrix](https://en.wikipedia.org/wiki/Matrix_%28mathematics%29)
 
 
 
