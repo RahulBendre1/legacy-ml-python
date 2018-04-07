@@ -96,7 +96,7 @@ by Zachariah Miller
 at METIS/[professional-development-courses](https://www.thisismetis.com/professional-development-courses)
 
 
-## Machine Learning Engineer Nanodegree
+## Machine Learning Engineer Nanodegree `< MLEn `
 on Udacity/[course/machine-learning-engineer-nanodegree](https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
 
 by Udacity/[courses/machine-learning](https://br.udacity.com/courses/machine-learning)
