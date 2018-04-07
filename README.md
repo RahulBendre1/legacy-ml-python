@@ -108,6 +108,7 @@ developed by [Kaggle](https://www.kaggle.com)
 
 
 
+[Learn Python](https://www.codecademy.com/learn/learn-python)
 
 ## Kaggle
 [Learn](https://www.kaggle.com/learn/overview)
