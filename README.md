@@ -109,6 +109,10 @@ Udacity/[courses/data-analytics](https://br.udacity.com/courses/data-analytics)
 
 developed by [Kaggle](https://www.kaggle.com)
 
+similar requirements
+
+
+
 
 ## Codecademy
 [Learn Python](https://www.codecademy.com/learn/learn-python)
