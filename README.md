@@ -128,7 +128,7 @@ similar requirements
 - Introduction to Machine Learning
 
 
-## Deep Learning Nanodegree
+## Deep Learning Nanodegree `< DLn `
 on Udacity/[course/deep-learning-nanodegree-foundation](https://br.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
 
