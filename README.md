@@ -104,4 +104,5 @@ and Udacity/[data-science](https://br.udacity.com/data-science)
 Udacity/[courses/data-science](https://br.udacity.com/courses/data-science)
 Udacity/[courses/data-analytics](https://br.udacity.com/courses/data-analytics)
 
+developed by [Kaggle](https://www.kaggle.com)
 
