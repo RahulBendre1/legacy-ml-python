@@ -3,6 +3,9 @@
 
 ## Deep Learning
 
+[Intro to Deep Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
+by Siraj Raval
+
 
 ## Machine Learning
 
