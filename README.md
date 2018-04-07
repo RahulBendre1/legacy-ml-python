@@ -6,6 +6,9 @@
 [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
 by Udacity
 
+[ML Project Ideas](https://github.com/NirantK/awesome-project-ideas)
+
+
 ## TensorFlow
 
 [Intro to Tensorflow](https://www.youtube.com/playlist?list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
