@@ -108,4 +108,5 @@ developed by [Kaggle](https://www.kaggle.com)
 
 
 [Deep Learning](https://www.kaggle.com/learn/deep-learning)
+[Machine Learning](https://www.kaggle.com/learn/machine-learning)
 
