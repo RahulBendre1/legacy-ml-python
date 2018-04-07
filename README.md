@@ -129,7 +129,7 @@ similar requirements
 
 
 ## Deep Learning Nanodegree
-
+on Udacity/[course/deep-learning-nanodegree-foundation](https://br.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
 
 ## Codecademy
