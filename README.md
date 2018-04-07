@@ -112,4 +112,4 @@ developed by [Kaggle](https://www.kaggle.com)
 [Pandas](https://www.kaggle.com/learn/pandas)
 [Data Visualisation](https://www.kaggle.com/learn/data-visualisation)
 [SQL](https://www.kaggle.com/learn/sql)
-
+[R](https://www.kaggle.com/learn/r)
