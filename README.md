@@ -21,4 +21,5 @@ by Zachariah Miller
 on Udacity/[course/machine-learning-engineer-nanodegree](https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
 
 by Udacity/[courses/machine-learning](https://br.udacity.com/courses/machine-learning)
+and Udacity/[data-science](https://br.udacity.com/data-science)
 
