@@ -61,6 +61,10 @@ by MITx EdX
 by 3Blue1Brown
 `< ML3m `
 
+[Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/)
+by MIT
+
+
 ## Linear Algebra
 
 [Linear Algebra 18.06](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
