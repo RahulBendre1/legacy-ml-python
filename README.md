@@ -122,6 +122,8 @@ similar requirements
 - Data Wrangling
 - Introduction to Machine Learning
 
+[Fundamentos de Machine Learning](https://br.udacity.com/course/fundamentos-machine-learning--nd109)
+
 
 
 ## Codecademy
