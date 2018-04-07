@@ -70,6 +70,7 @@ on GitHub/[llSourcell](https://github.com/llSourcell)
 on Twitter/[sirajraval](https://twitter.com/sirajraval)
 on Patreon/[sirajraval](https://www.patreon.com/sirajraval)
 on Slack/[wizards](http://wizards.herokuapp.com/)
+on Facebook/[sirajology](https://www.facebook.com/sirajology)
 
 
 ## Roadmap: How to Learn Machine Learning in 6 Months
