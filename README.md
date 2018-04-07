@@ -113,6 +113,8 @@ similar requirements
 
 [Fundamentos de Data Science I](https://br.udacity.com/course/fundamentos-data-science-i-python--nd110)
 
+[Fundamentos de Data Science II](https://br.udacity.com/course/fundamentos-data-science-ii--nd111)
+
 
 
 ## Codecademy
