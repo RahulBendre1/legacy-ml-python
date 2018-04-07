@@ -65,6 +65,9 @@ by 3Blue1Brown
 by MIT
 `< ML6m `
 
+[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+by MIT
+
 ## Linear Algebra
 
 [Linear Algebra 18.06](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
