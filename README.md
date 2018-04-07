@@ -1,7 +1,7 @@
 # ml-python
 
 
-## Intro to Machine Learning
+## Machine Learning
 
 [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
 by Udacity
