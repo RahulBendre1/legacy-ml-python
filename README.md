@@ -80,6 +80,7 @@ on Medium/[@thisismetis/roadmap-how-to-learn-machine-learning-in-6-months-7c5018
 on METIS/(blog/how-to-learn-machine-learning-in-6-months)[https://www.thisismetis.com/blog/how-to-learn-machine-learning-in-6-months]
 
 by Zachariah Miller
+at METIS/[professional-development-courses](https://www.thisismetis.com/professional-development-courses)
 
 
 ## Machine Learning Engineer Nanodegree
