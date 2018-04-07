@@ -2,6 +2,8 @@
 
 ## Probability
 
+[Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+by MITx EdX
 
 ## Calculus
 
