@@ -67,7 +67,7 @@ by 3Blue1Brown
 by MIT
 `< ML3m `
 
-[Vector_space](https://en.wikipedia.org/wiki/Vector_space)
+[Vector Space](https://en.wikipedia.org/wiki/Vector_space)
 `< ML6m `
 [Matrix](https://en.wikipedia.org/wiki/Matrix_%28mathematics%29)
 `< ML6m `
@@ -87,7 +87,7 @@ on Slack/[wizards](http://wizards.herokuapp.com/)
 on Facebook/[sirajology](https://www.facebook.com/sirajology)
 
 
-## Roadmap: How to Learn Machine Learning in 6 Months
+## Roadmap: How to Learn Machine Learning in 6 Months `< ML6m `
 on YouYube/[?v=MOdlp1d0PNA](https://www.youtube.com/watch?v=MOdlp1d0PNA)
 on Medium/[@thisismetis/roadmap-how-to-learn-machine-learning-in-6-months-7c501889b545](https://medium.com/@thisismetis/roadmap-how-to-learn-machine-learning-in-6-months-7c501889b545)
 on METIS/(blog/how-to-learn-machine-learning-in-6-months)[https://www.thisismetis.com/blog/how-to-learn-machine-learning-in-6-months]
