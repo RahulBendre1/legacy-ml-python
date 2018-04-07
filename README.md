@@ -56,7 +56,8 @@ by 3Blue1Brown
 
 ## Linear Algebra
 
-[MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 
+[Linear Algebra 18.06](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+by MIT
 
 
 ## Learn Machine Learning in 3 Months
