@@ -23,5 +23,6 @@ on Udacity/[course/machine-learning-engineer-nanodegree](https://br.udacity.com/
 by Udacity/[courses/machine-learning](https://br.udacity.com/courses/machine-learning)
 and Udacity/[data-science](https://br.udacity.com/data-science)
 Udacity/[courses/data-science](https://br.udacity.com/courses/data-science)
+Udacity/[courses/data-analytics](https://br.udacity.com/courses/data-analytics)
 
 
