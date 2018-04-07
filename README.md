@@ -111,5 +111,5 @@ developed by [Kaggle](https://www.kaggle.com)
 [Machine Learning](https://www.kaggle.com/learn/machine-learning)
 [Pandas](https://www.kaggle.com/learn/pandas)
 [Data Visualisation](https://www.kaggle.com/learn/data-visualisation)
-
+[SQL](https://www.kaggle.com/learn/sql)
 
