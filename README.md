@@ -68,6 +68,7 @@ on YouTube/[SirajRaval](https://www.youtube.com/c/SirajRaval)
 on YouTube/[channel/UCWN3xxRkmTPmbKwht9FuE5A](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 on GitHub/[llSourcell](https://github.com/llSourcell)
 on Twitter/[sirajraval](https://twitter.com/sirajraval)
+on Patreon/[sirajraval](https://www.patreon.com/sirajraval)
 
 
 ## Roadmap: How to Learn Machine Learning in 6 Months
