@@ -68,8 +68,9 @@ by MIT
 `< ML3m `
 
 [Vector_space](https://en.wikipedia.org/wiki/Vector_space)
+`< ML6m `
 [Matrix](https://en.wikipedia.org/wiki/Matrix_%28mathematics%29)
-
+`< ML6m `
 
 
 ## Learn Machine Learning in 3 Months `< ML3m `
