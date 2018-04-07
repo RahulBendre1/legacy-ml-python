@@ -64,6 +64,7 @@ by 3Blue1Brown
 ## Linear Algebra
 
 [Linear Algebra 18.06](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+/[video-lectures/](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 by MIT
 `< ML3m `
 
