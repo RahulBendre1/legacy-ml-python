@@ -3,6 +3,8 @@
 
 ## Intro to Machine Learning
 
+[Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
+by Udacity
 
 ## TensorFlow
 
