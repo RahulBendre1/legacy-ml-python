@@ -7,6 +7,8 @@ by Siraj Raval
 
 ## Math of Intelligence
 
+[The Math of Intelligence](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
+by Siraj Raval
 
 
 ## Python
