@@ -70,6 +70,7 @@ by MIT
 `< ML6m `
 
 [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent)
+(application of Partial Derivatives)
 
 
 ## Linear Algebra
