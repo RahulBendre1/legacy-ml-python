@@ -107,6 +107,9 @@ Udacity/[courses/data-analytics](https://br.udacity.com/courses/data-analytics)
 developed by [Kaggle](https://www.kaggle.com)
 
 
+
+
+## Kaggle
 [Learn](https://www.kaggle.com/learn/overview)
 [Deep Learning](https://www.kaggle.com/learn/deep-learning)
 [Machine Learning](https://www.kaggle.com/learn/machine-learning)
