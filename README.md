@@ -59,6 +59,9 @@ by 3Blue1Brown
 [Linear Algebra 18.06](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 by MIT
 
+[Vector_space](https://en.wikipedia.org/wiki/Vector_space)
+
+
 
 ## Learn Machine Learning in 3 Months
 on YouTube/[?v=Cr6VqTRO1v0](https://www.youtube.com/watch?v=Cr6VqTRO1v0)
