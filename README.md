@@ -111,6 +111,7 @@ developed by [Kaggle](https://www.kaggle.com)
 
 similar requirements
 
+[Fundamentos de Data Science I](https://br.udacity.com/course/fundamentos-data-science-i-python--nd110)
 
 
 
