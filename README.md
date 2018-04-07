@@ -5,12 +5,15 @@
 
 [Intro to Deep Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
 by Siraj Raval
+`< ML3m `
 
 [Deep Learning](http://course.fast.ai/)
 by Fast.AI
+`< ML3m `
 
 [Re-implement DL projects](https://github.com/llSourcell?tab=repositories)
 from Siraj Raval
+`< ML3m `
 
 ## Machine Learning
 
@@ -64,7 +67,7 @@ by MIT
 
 
 
-## Learn Machine Learning in 3 Months
+## Learn Machine Learning in 3 Months [ML3](ML3)
 on YouTube/[?v=Cr6VqTRO1v0](https://www.youtube.com/watch?v=Cr6VqTRO1v0)
 on GitHub/[llSourcell/Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
 
