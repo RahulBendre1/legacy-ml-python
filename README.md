@@ -2,6 +2,9 @@
 
 ## TensorFlow
 
+[Intro to Tensorflow](https://www.youtube.com/playlist?list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
+by Siraj Raval
+
 
 ## Python
 
