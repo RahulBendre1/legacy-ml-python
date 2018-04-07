@@ -64,6 +64,7 @@ on YouTube/[?v=Cr6VqTRO1v0](https://www.youtube.com/watch?v=Cr6VqTRO1v0)
 on GitHub/[llSourcell/Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
 
 by Siraj Raval
+on YouTube/[SirajRaval](https://www.youtube.com/c/SirajRaval)
 on YouTube/[channel/UCWN3xxRkmTPmbKwht9FuE5A](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 on GitHub/[llSourcell](https://github.com/llSourcell)
 on Twitter/[sirajraval](https://twitter.com/sirajraval)
