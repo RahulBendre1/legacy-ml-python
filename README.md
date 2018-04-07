@@ -111,6 +111,7 @@ developed by [Kaggle](https://www.kaggle.com)
 [Learn Python](https://www.codecademy.com/learn/learn-python)
 Catalog/[data-science](https://www.codecademy.com/catalog/subject/data-science)
 [Bash](https://www.codecademy.com/catalog/language/bash)
+[SQL](https://www.codecademy.com/catalog/language/sql)
 
 
 ## Kaggle
