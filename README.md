@@ -73,7 +73,8 @@ by MIT
 `< ML6m `
 
 [Linear Algebra Refresher Course](https://br.udacity.com/course/linear-algebra-refresher-course--ud953)
-
+ `< MLEn `
+ 
 
 ## Learn Machine Learning in 3 Months `< ML3m `
 on YouTube/[?v=Cr6VqTRO1v0](https://www.youtube.com/watch?v=Cr6VqTRO1v0)
