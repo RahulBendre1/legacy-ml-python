@@ -69,6 +69,7 @@ on YouTube/[channel/UCWN3xxRkmTPmbKwht9FuE5A](https://www.youtube.com/channel/UC
 on GitHub/[llSourcell](https://github.com/llSourcell)
 on Twitter/[sirajraval](https://twitter.com/sirajraval)
 on Patreon/[sirajraval](https://www.patreon.com/sirajraval)
+on Slack/[wizards](http://wizards.herokuapp.com/)
 
 
 ## Roadmap: How to Learn Machine Learning in 6 Months
