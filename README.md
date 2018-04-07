@@ -69,6 +69,9 @@ by MIT
 by MIT
 `< ML6m `
 
+[Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent)
+
+
 ## Linear Algebra
 
 [Linear Algebra 18.06](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
