@@ -2,6 +2,7 @@
 
 ## Linear Algebra
 
+[MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 
 
 
 ## Learn Machine Learning in 3 Months
