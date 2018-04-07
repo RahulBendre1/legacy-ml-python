@@ -9,6 +9,8 @@ by Siraj Raval
 [Deep Learning](http://course.fast.ai/)
 by Fast.AI
 
+[Re-implement DL projects](https://github.com/llSourcell?tab=repositories)
+from Siraj Raval
 
 ## Machine Learning
 
