@@ -195,3 +195,4 @@ LinkedIn/[jasonbrownlee](http://www.linkedin.com/in/jasonbrownlee)
 [Data Science From Scratch: Book Review](https://machinelearningmastery.com/data-science-from-scratch-review/)
 
 
+## Analytics Vidhya
