@@ -27,6 +27,7 @@ by Udacity
 Data Science from Scratch: First Principles with Python
 by Joel Grus
 `< ML6m `
+GitHub/[joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
 
 ## TensorFlow
 
