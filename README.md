@@ -219,6 +219,7 @@ tag
 [Gainers and Losers in Gartner 2018 Magic Quadrant for Data Science and Machine Learning Platforms
 ](https://www.kdnuggets.com/2018/02/gartner-2018-mq-data-science-machine-learning-changes.html)
 
+[Top Data Science, Machine Learning Courses from Udemy – April 2018](https://www.kdnuggets.com/2018/04/udemy-top-data-science-machine-learning-courses.html)
 
 [A “Weird” Introduction to Deep Learning](https://www.kdnuggets.com/2018/03/weird-introduction-deep-learning.html)
 
