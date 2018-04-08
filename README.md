@@ -174,3 +174,6 @@ Catalog/[data-science](https://www.codecademy.com/catalog/subject/data-science)
 [Data Visualisation](https://www.kaggle.com/learn/data-visualisation)
 [SQL](https://www.kaggle.com/learn/sql)
 [R](https://www.kaggle.com/learn/r)
+
+
+## Machine Learning Mastery
