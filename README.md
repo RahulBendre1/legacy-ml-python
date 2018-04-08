@@ -196,3 +196,6 @@ LinkedIn/[jasonbrownlee](http://www.linkedin.com/in/jasonbrownlee)
 
 
 ## Analytics Vidhya
+
+[Must Read Books for Beginners on Machine Learning and Artificial Intelligence](https://www.analyticsvidhya.com/blog/2015/10/read-books-for-beginners-machine-learning-artificial-intelligence/?)
+
