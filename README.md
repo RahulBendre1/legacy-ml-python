@@ -216,6 +216,9 @@ tag
 [Text Data Preprocessing: A Walkthrough in Python](https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html)
 [Top 12 Essential Command Line Tools for Data Scientists](https://www.kdnuggets.com/2018/03/top-12-essential-command-line-tools-data-scientists.html)
 [A Tour of The Top 10 Algorithms for Machine Learning Newbies](https://www.kdnuggets.com/2018/02/tour-top-10-algorithms-machine-learning-newbies.html)
+[Gainers and Losers in Gartner 2018 Magic Quadrant for Data Science and Machine Learning Platforms
+](https://www.kdnuggets.com/2018/02/gartner-2018-mq-data-science-machine-learning-changes.html)
+
 
 [A “Weird” Introduction to Deep Learning](https://www.kdnuggets.com/2018/03/weird-introduction-deep-learning.html)
 
