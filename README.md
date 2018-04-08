@@ -121,7 +121,7 @@ on Facebook/[sirajology](https://www.facebook.com/sirajology)
 ## Roadmap: How to Learn Machine Learning in 6 Months `< ML6m `
 on YouYube/[?v=MOdlp1d0PNA](https://www.youtube.com/watch?v=MOdlp1d0PNA)
 on Medium/[@thisismetis/roadmap-how-to-learn-machine-learning-in-6-months-7c501889b545](https://medium.com/@thisismetis/roadmap-how-to-learn-machine-learning-in-6-months-7c501889b545)
-on METIS/(blog/how-to-learn-machine-learning-in-6-months)[https://www.thisismetis.com/blog/how-to-learn-machine-learning-in-6-months]
+on METIS/(blog/how-to-learn-machine-learning-in-6-months)[https://www.thisismetis.com/blog/how-to-learn-machine-learning-in-6-months] on zwmiller/[machinelearninginsixmonths](http://zwmiller.com/blogs/machinelearninginsixmonths.html)
 
 by [Zachariah Miller](http://zwmiller.com/)
 at METIS/[professional-development-courses](https://www.thisismetis.com/professional-development-courses)
