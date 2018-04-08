@@ -55,6 +55,9 @@ by Siraj Raval
 by Siraj Raval
 `< ML3m `
 
+Learn Python the Hard Way
+`< ML6m `
+
 ## Algorithms
 
 [Algorithm Design and Analysis](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x)
