@@ -58,6 +58,7 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 - teaches you how to code them up
 - nice overview on all the different types of algorithms
 - shows you the guts of the algorithms in Python
+- sort equivalent for Machine Learning with R by Brett Lantz
 
 ## Algorithms
 
