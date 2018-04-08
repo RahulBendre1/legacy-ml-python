@@ -71,6 +71,7 @@ by MITx EdX
 
 [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 by MIT
+ `< ML6m `
 
 ## Calculus `< ML6m `
 
