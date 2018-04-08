@@ -24,6 +24,9 @@ by Udacity
 [ML Project Ideas](https://github.com/NirantK/awesome-project-ideas)
 `< ML3m `
 
+Data Science from Scratch: First Principles with Python
+by Joel Grus
+
 ## TensorFlow
 
 [Intro to Tensorflow](https://www.youtube.com/playlist?list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
