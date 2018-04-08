@@ -180,7 +180,8 @@ Catalog/[data-science](https://www.codecademy.com/catalog/subject/data-science)
 
 /[Blog](https://machinelearningmastery.com/blog/)
 /[Start-Here](https://machinelearningmastery.com/start-here/) `Guide`
+/[Products](https://machinelearningmastery.com/products/) `Books`
 
 [Data Science From Scratch: Book Review](https://machinelearningmastery.com/data-science-from-scratch-review/)
 
-[Books](https://machinelearningmastery.com/products/)
+
