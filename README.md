@@ -180,6 +180,7 @@ Catalog/[data-science](https://www.codecademy.com/catalog/subject/data-science)
 By Jason Brownlee PhD
 Twitter/[TeachTheMachine](https://twitter.com/TeachTheMachine)
 Facebook/[MachineLearningMastery](https://www.facebook.com/MachineLearningMastery/)
+[+MachineLearningMasteryHome](https://plus.google.com/+MachineLearningMasteryHome)
 
 /[Blog](https://machinelearningmastery.com/blog/)
 /[Start-Here](https://machinelearningmastery.com/start-here/) `Guide`
