@@ -201,3 +201,6 @@ tag/[books-on-machine-learning](https://www.analyticsvidhya.com/blog/tag/books-o
 
 [Must Read Books for Beginners on Machine Learning and Artificial Intelligence](https://www.analyticsvidhya.com/blog/2015/10/read-books-for-beginners-machine-learning-artificial-intelligence/?)
 
+
+## KDnuggets
+
