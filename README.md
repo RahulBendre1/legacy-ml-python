@@ -223,6 +223,8 @@ tag
 
 [Build a Foundation that Supports AI and Machine Learning](https://www.kdnuggets.com/2018/04/alteryx-foundation-supports-ai-machine-learning.html)
 
+[Why Data Scientists Must Focus on Developing Product Sense](https://www.kdnuggets.com/2018/04/data-scientists-product-sense.html)
+
 [A “Weird” Introduction to Deep Learning](https://www.kdnuggets.com/2018/03/weird-introduction-deep-learning.html)
 
 
