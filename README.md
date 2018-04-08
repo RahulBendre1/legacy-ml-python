@@ -180,3 +180,4 @@ Catalog/[data-science](https://www.codecademy.com/catalog/subject/data-science)
 
 [Data Science From Scratch: Book Review](https://machinelearningmastery.com/data-science-from-scratch-review/)
 
+[Books](https://machinelearningmastery.com/products/)
