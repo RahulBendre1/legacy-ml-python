@@ -126,6 +126,8 @@ on METIS/(blog/how-to-learn-machine-learning-in-6-months)[https://www.thisismeti
 by [Zachariah Miller](http://zwmiller.com/)
 at METIS/[professional-development-courses](https://www.thisismetis.com/professional-development-courses)
 
+GitHub/[ZWMiller](https://github.com/ZWMiller)
+
 
 ## Machine Learning Engineer Nanodegree `< MLEn `
 on Udacity/[course/machine-learning-engineer-nanodegree](https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
