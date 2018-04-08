@@ -221,6 +221,8 @@ tag
 
 [Top Data Science, Machine Learning Courses from Udemy – April 2018](https://www.kdnuggets.com/2018/04/udemy-top-data-science-machine-learning-courses.html)
 
+[Build a Foundation that Supports AI and Machine Learning](https://www.kdnuggets.com/2018/04/alteryx-foundation-supports-ai-machine-learning.html)
+
 [A “Weird” Introduction to Deep Learning](https://www.kdnuggets.com/2018/03/weird-introduction-deep-learning.html)
 
 
