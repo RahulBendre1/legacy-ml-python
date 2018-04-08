@@ -127,6 +127,7 @@ by [Zachariah Miller](http://zwmiller.com/)
 at METIS/[professional-development-courses](https://www.thisismetis.com/professional-development-courses)
 
 Blog(http://zwmiller.com/blog.html)
+/Talks(http://zwmiller.com/blogs/talks.html)
 GitHub/[ZWMiller](https://github.com/ZWMiller)
 
 
