@@ -27,6 +27,7 @@ by Udacity
 [Data Science from Scratch: First Principles with Python](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)
 by [Joel Grus](http://joelgrus.com/)
 `< ML6m `
+
 [errata](http://www.oreilly.com/catalog/errata.csp?isbn=9781491901427)
 [shop](http://shop.oreilly.com/product/0636920033400.do)
 GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
