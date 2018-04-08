@@ -181,6 +181,7 @@ By Jason Brownlee PhD
 Twitter/[TeachTheMachine](https://twitter.com/TeachTheMachine)
 Facebook/[MachineLearningMastery](https://www.facebook.com/MachineLearningMastery/)
 [+MachineLearningMasteryHome](https://plus.google.com/+MachineLearningMasteryHome)
+LinkedIn/[jasonbrownlee](http://www.linkedin.com/in/jasonbrownlee)
 
 /[Blog](https://machinelearningmastery.com/blog/)
 /[Start-Here](https://machinelearningmastery.com/start-here/) `Guide`
