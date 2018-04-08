@@ -224,6 +224,7 @@ tag
 [Build a Foundation that Supports AI and Machine Learning](https://www.kdnuggets.com/2018/04/alteryx-foundation-supports-ai-machine-learning.html)
 
 [Why Data Scientists Must Focus on Developing Product Sense](https://www.kdnuggets.com/2018/04/data-scientists-product-sense.html)
+[The Two Sides of Getting a Job as a Data Scientist](https://www.kdnuggets.com/2018/03/two-sides-getting-job-data-scientist.html)
 
 [Neural network AI is simple. So… Stop pretending you are a genius](https://www.kdnuggets.com/2018/02/neural-network-ai-simple-genius.html)
 
