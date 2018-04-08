@@ -130,6 +130,7 @@ on Facebook/[sirajology](https://www.facebook.com/sirajology)
 on YouYube/[?v=MOdlp1d0PNA](https://www.youtube.com/watch?v=MOdlp1d0PNA)
 on Medium/[@thisismetis/roadmap-how-to-learn-machine-learning-in-6-months-7c501889b545](https://medium.com/@thisismetis/roadmap-how-to-learn-machine-learning-in-6-months-7c501889b545)
 on METIS/(blog/how-to-learn-machine-learning-in-6-months)[https://www.thisismetis.com/blog/how-to-learn-machine-learning-in-6-months] on zwmiller/[machinelearninginsixmonths](http://zwmiller.com/blogs/machinelearninginsixmonths.html)
+[slides](http://zwmiller.com/blogs/ZWM_6MonthsToMachineLearning.pdf)
 
 by [Zachariah Miller](http://zwmiller.com/)
 at METIS/[professional-development-courses](https://www.thisismetis.com/professional-development-courses)
@@ -194,7 +195,7 @@ Catalog/[data-science](https://www.codecademy.com/catalog/subject/data-science)
 [R](https://www.kaggle.com/learn/r)
 
 
-## [Machine Learning Mastery](https://machinelearningmastery.com/)
+## [Machine Learning Mastery](https://machinelearningmastery.com/) `< ML6m `
 By Jason Brownlee PhD
 Twitter/[TeachTheMachine](https://twitter.com/TeachTheMachine)
 Facebook/[MachineLearningMastery](https://www.facebook.com/MachineLearningMastery/)
@@ -212,6 +213,8 @@ LinkedIn/[jasonbrownlee](http://www.linkedin.com/in/jasonbrownlee)
 
 [Data Science From Scratch: Book Review](https://machinelearningmastery.com/data-science-from-scratch-review/)
 
+Mentioned by Zach Miller on https://youtu.be/MOdlp1d0PNA?t=11m40s `< ML6m `
+`... I've done pretty much all of his tutorials and learned a to from it.`
 
 ## Analytics Vidhya
 
