@@ -130,6 +130,7 @@ Blog(http://zwmiller.com/blog.html)
 /Talks(http://zwmiller.com/blogs/talks.html)
 GitHub/[ZWMiller](https://github.com/ZWMiller)
 LinkedIn/[zachariah-miller](https://www.linkedin.com/in/zachariah-miller/)
+Twitter/[zaglamir](https://twitter.com/zaglamir)
 
 
 ## Machine Learning Engineer Nanodegree `< MLEn `
