@@ -126,6 +126,7 @@ on METIS/(blog/how-to-learn-machine-learning-in-6-months)[https://www.thisismeti
 by [Zachariah Miller](http://zwmiller.com/)
 at METIS/[professional-development-courses](https://www.thisismetis.com/professional-development-courses)
 
+Blog(http://zwmiller.com/blog.html)
 GitHub/[ZWMiller](https://github.com/ZWMiller)
 
 
