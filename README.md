@@ -212,4 +212,6 @@ tag
 /[7steps](https://www.kdnuggets.com/tag/7-steps)
 
 [7 Steps to Mastering Machine Learning With Python](https://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html?)
+[Top 20 Python AI and Machine Learning Open Source Projects](https://www.kdnuggets.com/2018/02/top-20-python-ai-machine-learning-open-source-projects.html)
+
 
