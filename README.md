@@ -178,3 +178,5 @@ Catalog/[data-science](https://www.codecademy.com/catalog/subject/data-science)
 
 ## [Machine Learning Mastery](https://machinelearningmastery.com/)
 
+[Data Science From Scratch: Book Review](https://machinelearningmastery.com/data-science-from-scratch-review/)
+
