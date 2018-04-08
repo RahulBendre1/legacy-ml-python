@@ -215,7 +215,7 @@ tag
 [Top 20 Python AI and Machine Learning Open Source Projects](https://www.kdnuggets.com/2018/02/top-20-python-ai-machine-learning-open-source-projects.html)
 [Text Data Preprocessing: A Walkthrough in Python](https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html)
 [Top 12 Essential Command Line Tools for Data Scientists](https://www.kdnuggets.com/2018/03/top-12-essential-command-line-tools-data-scientists.html)
-
+[A Tour of The Top 10 Algorithms for Machine Learning Newbies](https://www.kdnuggets.com/2018/02/tour-top-10-algorithms-machine-learning-newbies.html)
 
 [A “Weird” Introduction to Deep Learning](https://www.kdnuggets.com/2018/03/weird-introduction-deep-learning.html)
 
