@@ -185,6 +185,7 @@ Twitter/[jBrownlee](https://twitter.com/jBrownlee)
 /[Products](https://machinelearningmastery.com/products/) `Books`
 /[machine-learning-resource-guide](https://machinelearningmastery.leadpages.co/machine-learning-resource-guide/)`Crash Course, Cheat Sheet`
 /[machine-learning-resources](https://machinelearningmastery.com/category/machine-learning-resources/)
+/[About](https://machinelearningmastery.com/about/)
 
 [Clever Algorithms: Nature-Inspired Programming Recipes](http://cleveralgorithms.com/)
 
