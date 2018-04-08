@@ -61,13 +61,16 @@ by Siraj Raval
 by PennX
 `< ML3m `
 
-## Probability
+## Probability `< ML6m `
 
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
 by MITx EdX
 `< ML3m `
 
-## Calculus
+## Statistics `< ML6m `
+
+
+## Calculus `< ML6m `
 
 [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 by 3Blue1Brown
@@ -85,7 +88,7 @@ by MIT
 (application of Partial Derivatives)
 `< ML6m `
 
-## Linear Algebra
+## Linear Algebra `< ML6m `
 
 [Linear Algebra 18.06](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 /[video-lectures/](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
