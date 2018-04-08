@@ -208,8 +208,8 @@ tag
 /[deep-learning](https://www.kdnuggets.com/tag/deep-learning)
 /[machine-learning](https://www.kdnuggets.com/tag/machine-learning)
 /[anaconda](https://www.kdnuggets.com/tag/anaconda)
+/[python](https://www.kdnuggets.com/tag/python)
 /[7steps](https://www.kdnuggets.com/tag/7-steps)
-
 
 [7 Steps to Mastering Machine Learning With Python](https://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html?)
 
