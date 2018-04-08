@@ -24,7 +24,7 @@ by Udacity
 [ML Project Ideas](https://github.com/NirantK/awesome-project-ideas)
 `< ML3m `
 
-[Data Science from Scratch: First Principles with Python](http://shop.oreilly.com/product/0636920033400.do)
+[Data Science from Scratch: First Principles with Python](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)
 by [Joel Grus](http://joelgrus.com/)
 `< ML6m `
 [errata](http://www.oreilly.com/catalog/errata.csp?isbn=9781491901427)
