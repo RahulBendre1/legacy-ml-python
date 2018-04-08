@@ -183,6 +183,8 @@ Catalog/[data-science](https://www.codecademy.com/catalog/subject/data-science)
 /[Products](https://machinelearningmastery.com/products/) `Books`
 /[machine-learning-resource-guide](https://machinelearningmastery.leadpages.co/machine-learning-resource-guide/)`Crash Course, Cheat Sheet`
 
+[Clever Algorithms: Nature-Inspired Programming Recipes](http://cleveralgorithms.com/)
+
 [Data Science From Scratch: Book Review](https://machinelearningmastery.com/data-science-from-scratch-review/)
 
 
