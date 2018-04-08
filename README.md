@@ -129,6 +129,7 @@ at METIS/[professional-development-courses](https://www.thisismetis.com/professi
 Blog(http://zwmiller.com/blog.html)
 /Talks(http://zwmiller.com/blogs/talks.html)
 GitHub/[ZWMiller](https://github.com/ZWMiller)
+LinkedIn/[zachariah-miller](https://www.linkedin.com/in/zachariah-miller/)
 
 
 ## Machine Learning Engineer Nanodegree `< MLEn `
