@@ -30,6 +30,10 @@ by [Joel Grus](http://joelgrus.com/)
 [errata](http://www.oreilly.com/catalog/errata.csp?isbn=9781491901427)
 [shop](http://shop.oreilly.com/product/0636920033400.do)
 GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
+- nice, readable introduction to most of the algorithms
+- teaches you how to code them up
+- nice overview on all the different types of algorithms
+- shows you the guts of the algorithms in Python
 
 ## TensorFlow
 
