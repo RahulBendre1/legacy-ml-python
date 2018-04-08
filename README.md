@@ -29,7 +29,7 @@ by [Joel Grus](http://joelgrus.com/)
 `< ML6m `
 [errata](http://www.oreilly.com/catalog/errata.csp?isbn=9781491901427)
 [shop](http://shop.oreilly.com/product/0636920033400.do)
-GitHub/[joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
+GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
 
 ## TensorFlow
 
