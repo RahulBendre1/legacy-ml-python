@@ -204,3 +204,5 @@ tag/[books-on-machine-learning](https://www.analyticsvidhya.com/blog/tag/books-o
 
 ## KDnuggets
 
+[7 Steps to Mastering Machine Learning With Python](https://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html?)
+
