@@ -269,6 +269,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - List Comprehensions and Sort
 - Dictionaries and Sets
 - Blocks and Loops
+- Iterables, Generator Expressions
 
 
 ## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
