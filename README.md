@@ -259,6 +259,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 
 
 ## Doing Math with Python
+by Amit Saha
 
 
 ## Python for Probability, Statistics, and Machine Learning
