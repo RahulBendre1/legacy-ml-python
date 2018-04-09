@@ -256,3 +256,6 @@ tag
 ## PyCon 2016 Python by Immersion
 by [Stuart Williams](http://swilliams.ca)
 Twitter/[ceilous](https://twitter.com/ceilous)
+
+
+## Python for Probability, Statistics, and Machine Learning
