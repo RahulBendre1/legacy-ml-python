@@ -276,7 +276,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Call by Reference (to Objects)
 - Classes and Instances
 - Exceptions
-
+- Standard Library Tour
 
 ## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
 by Amit Saha
