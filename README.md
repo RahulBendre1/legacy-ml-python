@@ -278,6 +278,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Exceptions
 - Standard Library Tour
 - Standard class methods
+- Function Parameters
 
 
 ## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
