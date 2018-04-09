@@ -268,6 +268,8 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Sequence Indexing and Slicing
 - List Comprehensions and Sort
 - Dictionaries and Sets
+- Blocks and Loops
+
 
 ## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
 by Amit Saha
