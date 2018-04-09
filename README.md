@@ -273,6 +273,8 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Writing Scripts, Modules
 - Defining and Calling Functions
 - Generators
+- Call by Reference (to Objects)
+
 
 ## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
 by Amit Saha
