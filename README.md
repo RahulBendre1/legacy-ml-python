@@ -252,3 +252,7 @@ tag
 [A “Weird” Introduction to Deep Learning](https://www.kdnuggets.com/2018/03/weird-introduction-deep-learning.html)
 
 
+
+## PyCon 2016 Python by Immersion
+
+
