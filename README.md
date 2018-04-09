@@ -254,5 +254,5 @@ tag
 
 
 ## PyCon 2016 Python by Immersion
-by [Stuart Williams](https://swilliams.ca)
+by [Stuart Williams](http://swilliams.ca)
 
