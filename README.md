@@ -264,7 +264,8 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Strings
 - String Functions and Methods
 - Print and String Formatting
-
+- Tuples, Lists
+- Sequence Indexing and Slicing
 
 ## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
 by Amit Saha
