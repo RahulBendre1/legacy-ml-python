@@ -258,5 +258,9 @@ by [Stuart Williams](http://swilliams.ca)
 Twitter/[ceilous](https://twitter.com/ceilous)
 
 
+## Doing Math with Python
+
+
 ## Python for Probability, Statistics, and Machine Learning
 by Jose Unpingco
+
