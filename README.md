@@ -279,7 +279,8 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Standard Library Tour
 - Standard class methods
 - Function Parameters
-
+- Files
+- Tutorial Survey
 
 ## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
 by Amit Saha
