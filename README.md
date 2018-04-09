@@ -275,6 +275,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Generators
 - Call by Reference (to Objects)
 - Classes and Instances
+- Exceptions
 
 
 ## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
