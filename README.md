@@ -259,3 +259,4 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 
 
 ## Python for Probability, Statistics, and Machine Learning
+by Jose Unpingco
