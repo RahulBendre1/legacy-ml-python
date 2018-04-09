@@ -266,6 +266,8 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Print and String Formatting
 - Tuples, Lists
 - Sequence Indexing and Slicing
+- List Comprehensions and Sort
+- Dictionaries and Sets
 
 ## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
 by Amit Saha
