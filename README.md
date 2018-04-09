@@ -277,6 +277,8 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Classes and Instances
 - Exceptions
 - Standard Library Tour
+- Standard class methods
+
 
 ## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
 by Amit Saha
