@@ -261,6 +261,9 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Objects
 - Names
 - Numbers, etc
+- Strings
+- String Functions and Methods
+- Print and String Formatting
 
 
 ## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
