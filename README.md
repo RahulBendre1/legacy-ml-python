@@ -270,7 +270,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Dictionaries and Sets
 - Blocks and Loops
 - Iterables, Generator Expressions
-
+- Writing Scripts, Modules
 
 ## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
 by Amit Saha
