@@ -314,7 +314,7 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 18. Neural Networks                300
 19. Clustering                     314
 20. Natural Language Processing    332
-21.
+21. Network Analysis               350
 22.
 23.
 24.
