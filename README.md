@@ -318,6 +318,6 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 22. Recommender Systems            365
 23. Databases and SQL              375
 24. MapReduce                      395
-25.
-    Index                  423
+25. Go Forth and Do Data Science   407
+    Index                          423
     
