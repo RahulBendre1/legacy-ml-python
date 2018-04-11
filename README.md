@@ -281,6 +281,7 @@ by Amit Saha
 - 1 Working with Numbers
 - 2 Visualizing Data with Graphs
 - 3 Describing Data with Statistics
+- 4 Algebra and Symbolic Math with SymPy
 
 
 ## Python for Probability, Statistics, and Machine Learning
