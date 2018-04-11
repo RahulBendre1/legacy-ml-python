@@ -311,7 +311,7 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 15. Multiple Regression            254
 16. Logistic Regression            269
 17. Decision Trees                 285
-18.
+18. Neural Networks                300
 19.
 20.
 21.
