@@ -277,6 +277,8 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 ## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
 by Amit Saha
 
+- Introduction
+
 
 ## Python for Probability, Statistics, and Machine Learning
 by Jose Unpingco
