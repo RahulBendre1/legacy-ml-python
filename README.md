@@ -286,6 +286,7 @@ by Amit Saha
 - 6 Drawing Geometric Shapes and Fractals
 - 7 Solving Calculus Problems
 - Afterword
+- Appendix A Sotware Installation
 
 
 ## Python for Probability, Statistics, and Machine Learning
