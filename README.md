@@ -308,7 +308,7 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 12. k-Nearest Neighbors            218
 13. Naive Bayes                    234
 14. Simple Linear Regression       245
-15.
+15. Multiple Regression            269
 16.
 17.
 18.
