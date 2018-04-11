@@ -274,7 +274,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Files
 - Tutorial Survey
 
-## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
+## [Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!](https://nostarch.com/doingmathwithpython)
 by Amit Saha
 
 - Introduction                                 
