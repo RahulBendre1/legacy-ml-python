@@ -300,7 +300,7 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
  4. Linear Algebra                  84
  5. Statistics                      95
  6. Probability                    111
- 7.
+ 7. Hypothesis and Inference       128
  8.
  9.
 10.
