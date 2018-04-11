@@ -289,6 +289,7 @@ by Amit Saha
 - Appendix A Sotware Installation            213
 - Appendix B Overview of Python Topics       221
 
+[doingmathwithpython.github.io](https://doingmathwithpython.github.io/)
 
 ## Python for Probability, Statistics, and Machine Learning
 by Jose Unpingco
