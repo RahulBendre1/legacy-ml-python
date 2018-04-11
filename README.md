@@ -301,7 +301,7 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
  5. Statistics                      95
  6. Probability                    111
  7. Hypothesis and Inference       128
- 8.
+ 8. Gradient Descent               143
  9.
 10.
 11.
