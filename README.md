@@ -287,6 +287,7 @@ by Amit Saha
 - 7 Solving Calculus Problems
 - Afterword
 - Appendix A Sotware Installation
+- Appendix B Overview of Python Topics
 
 
 ## Python for Probability, Statistics, and Machine Learning
