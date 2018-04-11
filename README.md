@@ -284,6 +284,7 @@ by Amit Saha
 - 4 Algebra and Symbolic Math with SymPy
 - 5 Playing with Sets and Probability
 - 6 Drawing Geometric Shapes and Fractals
+- 7 Solving Calculus Problems
 
 
 ## Python for Probability, Statistics, and Machine Learning
