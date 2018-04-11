@@ -281,7 +281,7 @@ by Amit Saha
 ## Python for Probability, Statistics, and Machine Learning
 by Jose Unpingco
 
-[Data Science from Scratch: First Principles with Python](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)
+## [Data Science from Scratch: First Principles with Python](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)
 by [Joel Grus](http://joelgrus.com/)
 `< ML6m `
 
