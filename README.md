@@ -310,7 +310,7 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 14. Simple Linear Regression       245
 15. Multiple Regression            254
 16. Logistic Regression            269
-17.
+17. Decision Trees                 285
 18.
 19.
 20.
