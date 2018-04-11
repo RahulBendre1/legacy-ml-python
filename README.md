@@ -279,6 +279,7 @@ by Amit Saha
 
 - Introduction
 - 1 Working with Numbers
+- 2 Visualizing Data with Graphs
 
 
 ## Python for Probability, Statistics, and Machine Learning
