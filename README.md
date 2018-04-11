@@ -278,6 +278,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 by Amit Saha
 
 - Introduction
+- 1 Working with Numbers
 
 
 ## Python for Probability, Statistics, and Machine Learning
