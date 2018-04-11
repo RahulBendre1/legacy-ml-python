@@ -294,9 +294,9 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 - shows you the guts of the algorithms in Python
 - sort equivalent for Machine Learning with R by Brett Lantz
 
- 1. Introduction    17
- 2. Crash Course in Python
- 3.
+ 1. Introduction                    17
+ 2. Crash Course in Python          35
+ 3. Visualizing Data                71
  4.
  5.
  6.
