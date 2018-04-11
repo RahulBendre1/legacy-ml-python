@@ -51,14 +51,6 @@ Learn Python the Hard Way
 by [Joel Grus](http://joelgrus.com/)
 `< ML6m `
 
-[errata](http://www.oreilly.com/catalog/errata.csp?isbn=9781491901427)
-[shop](http://shop.oreilly.com/product/0636920033400.do)
-GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
-- nice, readable introduction to most of the algorithms
-- teaches you how to code them up
-- nice overview on all the different types of algorithms
-- shows you the guts of the algorithms in Python
-- sort equivalent for Machine Learning with R by Brett Lantz
 
 ## Algorithms
 
@@ -288,4 +280,17 @@ by Amit Saha
 
 ## Python for Probability, Statistics, and Machine Learning
 by Jose Unpingco
+
+[Data Science from Scratch: First Principles with Python](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)
+by [Joel Grus](http://joelgrus.com/)
+`< ML6m `
+
+[errata](http://www.oreilly.com/catalog/errata.csp?isbn=9781491901427)
+[shop](http://shop.oreilly.com/product/0636920033400.do)
+GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
+- nice, readable introduction to most of the algorithms
+- teaches you how to code them up
+- nice overview on all the different types of algorithms
+- shows you the guts of the algorithms in Python
+- sort equivalent for Machine Learning with R by Brett Lantz
 
