@@ -277,17 +277,17 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 ## Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!
 by Amit Saha
 
-- Introduction
-- 1 Working with Numbers
-- 2 Visualizing Data with Graphs
-- 3 Describing Data with Statistics
-- 4 Algebra and Symbolic Math with SymPy
-- 5 Playing with Sets and Probability
-- 6 Drawing Geometric Shapes and Fractals
-- 7 Solving Calculus Problems
-- Afterword
-- Appendix A Sotware Installation
-- Appendix B Overview of Python Topics
+- Introduction                                 
+- 1 Working with Numbers                       1 
+- 2 Visualizing Data with Graphs              27
+- 3 Describing Data with Statistics           61
+- 4 Algebra and Symbolic Math with SymPy      93
+- 5 Playing with Sets and Probability        121 
+- 6 Drawing Geometric Shapes and Fractals    149
+- 7 Solving Calculus Problems                177
+- Afterword                                  209
+- Appendix A Sotware Installation            213
+- Appendix B Overview of Python Topics       221
 
 
 ## Python for Probability, Statistics, and Machine Learning
