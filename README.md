@@ -298,7 +298,7 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
  2. Crash Course in Python          35
  3. Visualizing Data                71
  4. Linear Algebra                  84
- 5.
+ 5. Statistics                      95
  6.
  7.
  8.
