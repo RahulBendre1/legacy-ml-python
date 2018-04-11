@@ -306,7 +306,7 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 10. Working with Data              180
 11. Machine Learning               203
 12. k-Nearest Neighbors            218
-13.
+13. Naive Bayes                    234
 14.
 15.
 16.
