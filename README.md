@@ -295,7 +295,7 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 - sort equivalent for Machine Learning with R by Brett Lantz
 
  1. Introduction    17
- 2.
+ 2. Crash Course in Python
  3.
  4.
  5.
