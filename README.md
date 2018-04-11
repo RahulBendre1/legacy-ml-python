@@ -303,7 +303,7 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
  7. Hypothesis and Inference       128
  8. Gradient Descent               143
  9. Getting Data                   155
-10.
+10. Working with Data              180
 11.
 12.
 13.
