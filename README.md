@@ -315,8 +315,8 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 19. Clustering                     314
 20. Natural Language Processing    332
 21. Network Analysis               350
-22. Recomender Systems             365
-23.
+22. Recommender Systems            365
+23. Databases and SQL              375
 24.
 25.
     Index                  423
