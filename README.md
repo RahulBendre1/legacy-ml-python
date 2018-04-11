@@ -304,7 +304,7 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
  8. Gradient Descent               143
  9. Getting Data                   155
 10. Working with Data              180
-11.
+11. Machine Learning               203
 12.
 13.
 14.
