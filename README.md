@@ -300,7 +300,7 @@ by Jose Unpingco
 2 Probability                                 35
 3 Statistics                                 101
 4 Machine Learning                           197
-
+ Index                                       275
 
 GitHub/[unpingco/Python-for-Probability-Statistics-and-Machine-Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning)
 
