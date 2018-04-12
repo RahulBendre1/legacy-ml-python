@@ -296,6 +296,9 @@ GitHub/[doingmathwithpython](https://github.com/doingmathwithpython)
 ## [Python for Probability, Statistics, and Machine Learning](http://www.springer.com/us/book/9783319307152)
 by Jose Unpingco
 
+1 Getting Started with Scientific Python       1
+
+
 GitHub/[unpingco/Python-for-Probability-Statistics-and-Machine-Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning)
 
 ## [Data Science from Scratch: First Principles with Python](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)
