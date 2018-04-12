@@ -297,6 +297,7 @@ GitHub/[doingmathwithpython](https://github.com/doingmathwithpython)
 by Jose Unpingco
 
 1 Getting Started with Scientific Python       1
+2 Probability                                 35
 
 
 GitHub/[unpingco/Python-for-Probability-Statistics-and-Machine-Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning)
