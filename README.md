@@ -361,5 +361,6 @@ II  Automating Tasks               145
 8   Reading and Writing Files      173
 9   Organizing Files               197
 10  Debugging                      215
+11  Web Scraping                   233
 
 
