@@ -350,4 +350,10 @@ by Al Sweigart
 
     Introduction                     1
 I   Python Programming Basics       11
+1   Python Basics                   13
+2   Flow Control                    31
+3   Functions                       61
+4   Lists                           79
+5   Dictionaries and Structuring Data   105
+
 
