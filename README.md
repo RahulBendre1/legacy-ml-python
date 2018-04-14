@@ -423,5 +423,6 @@ B   Text Editors                        491
 C   Getting Help                        499
 D   Using Git for Version Control       505
 
+    Index                               515
 
 ```
