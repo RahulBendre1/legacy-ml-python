@@ -368,5 +368,7 @@ II  Automating Tasks               145
 15  Keeping Time, Scheduling Tasks, and Lauching Programs   335
 16  Sending Email and Text Messages     361
 17  Manipulating Images            387
+18  Controlling the Keyboard and Mouse with GUI Automation  413
+A   Installing Third-Party Modules      441
 
 
