@@ -357,5 +357,6 @@ I   Python Programming Basics       11
 5   Dictionaries and Structuring Data   105
 6   Manipulating Strings           123
 II  Automating Tasks               145
+7   Pattern Matching with Regular Expressions   147
 
 
