@@ -381,3 +381,7 @@ C   Practice Questions Answers                              447
 
 Reddit/[_automate_the/](https://www.reddit.com/r/learnprogramming/comments/7fxq5o/im_releasing_a_free_code_for_my_automate_the/)
 
+
+## Python Crash Course
+
+
