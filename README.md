@@ -412,6 +412,7 @@ P2  Data Visualization
 17  Working with APIs                   377
 
 P3  Web Applications
+18  Getting Started with Django         397
 
 
 ```
