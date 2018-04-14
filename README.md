@@ -387,6 +387,7 @@ by Eric Matthes
 
 ```
 I   Basics                                1
+1   Getting Started                       3
 
 II  Projects                            231
 
