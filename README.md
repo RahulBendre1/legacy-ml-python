@@ -420,6 +420,7 @@ P3  Web Applications
 
 A   Installing Python                   485
 B   Text Editors                        491
+C   Getting Help                        499
 
 
 ```
