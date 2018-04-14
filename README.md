@@ -413,6 +413,7 @@ P2  Data Visualization
 
 P3  Web Applications
 18  Getting Started with Django         397
+19  User Accounts                       427
 
 
 ```
