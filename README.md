@@ -348,30 +348,30 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 ## Automate the Boring Stuff with Python
 by Al Sweigart
 
-    Introduction                     1
-I   Python Programming Basics       11
-1   Python Basics                   13
-2   Flow Control                    31
-3   Functions                       61
-4   Lists                           79
-5   Dictionaries and Structuring Data   105
-6   Manipulating Strings           123
-II  Automating Tasks               145
-7   Pattern Matching with Regular Expressions   147
-8   Reading and Writing Files      173
-9   Organizing Files               197
-10  Debugging                      215
-11  Web Scraping                   233
-12  Working with Excel Spreadsheets     265
-13  Working with PDF and Word Documents 295
-14  Working with CSV Files and JSON Data        319
+    Introduction                                              1
+I   Python Programming Basics                                11
+1   Python Basics                                            13
+2   Flow Control                                             31
+3   Functions                                                61
+4   Lists                                                    79
+5   Dictionaries and Structuring Data                       105
+6   Manipulating Strings                                    123
+II  Automating Tasks                                        145
+7   Pattern Matching with Regular Expressions               147
+8   Reading and Writing Files                               173
+9   Organizing Files                                        197
+10  Debugging                                               215
+11  Web Scraping                                            233
+12  Working with Excel Spreadsheets                         265
+13  Working with PDF and Word Documents                     295
+14  Working with CSV Files and JSON Data                    319
 15  Keeping Time, Scheduling Tasks, and Lauching Programs   335
-16  Sending Email and Text Messages     361
-17  Manipulating Images            387
+16  Sending Email and Text Messages                         361
+17  Manipulating Images                                     387
 18  Controlling the Keyboard and Mouse with GUI Automation  413
-A   Installing Third-Party Modules      441
-B   Running Programs                    443
-C   Practice Questions Answers          447
-    Index                          461
+A   Installing Third-Party Modules                          441
+B   Running Programs                                        443
+C   Practice Questions Answers                              447
+    Index                                                   461
 
 
