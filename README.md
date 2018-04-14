@@ -370,5 +370,8 @@ II  Automating Tasks               145
 17  Manipulating Images            387
 18  Controlling the Keyboard and Mouse with GUI Automation  413
 A   Installing Third-Party Modules      441
+B   Running Programs                    443
+C   Practice Questions Answers          447
+    Index                          461
 
 
