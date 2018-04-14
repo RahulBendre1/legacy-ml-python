@@ -388,6 +388,8 @@ by Eric Matthes
 ```
 I   Basics                                1
 1   Getting Started                       3
+2   Variables and Simple Data Types      19
+
 
 II  Projects                            231
 
