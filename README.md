@@ -362,5 +362,6 @@ II  Automating Tasks               145
 9   Organizing Files               197
 10  Debugging                      215
 11  Web Scraping                   233
+12  Working with Excel Spreadsheets     265
 
 
