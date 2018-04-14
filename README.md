@@ -351,7 +351,7 @@ at [automatetheboringstuff.com](https://automatetheboringstuff.com/)
 at Udemy/[automate](https://www.udemy.com/automate/)/[?couponCode=](https://www.udemy.com/automate/?couponCode=FOR_LIKE_10_BUCKS)
 at YouTube/[playlist?=](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 
-
+```
     Introduction                                              1
 I   Python Programming Basics                                11
 1   Python Basics                                            13
@@ -377,6 +377,7 @@ A   Installing Third-Party Modules                          441
 B   Running Programs                                        443
 C   Practice Questions Answers                              447
     Index                                                   461
+```
 
 Reddit/[_automate_the/](https://www.reddit.com/r/learnprogramming/comments/7fxq5o/im_releasing_a_free_code_for_my_automate_the/)
 
