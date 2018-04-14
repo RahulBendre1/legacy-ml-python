@@ -392,6 +392,7 @@ I   Basics                                1
 3   Introducing Lists                    37
 4   Working with Lists                   53
 5   if Statements                        75
+6   Dictionaries                         95
 
 
 II  Projects                            231
