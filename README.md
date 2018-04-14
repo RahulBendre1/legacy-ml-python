@@ -383,5 +383,6 @@ Reddit/[_automate_the/](https://www.reddit.com/r/learnprogramming/comments/7fxq5
 
 
 ## Python Crash Course: A Hands-On, Project Based Introduction to Programming
+by Eric Matthes
 
 
