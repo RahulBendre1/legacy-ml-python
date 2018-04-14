@@ -355,5 +355,6 @@ I   Python Programming Basics       11
 3   Functions                       61
 4   Lists                           79
 5   Dictionaries and Structuring Data   105
+6   Manipulating Strings           123
 
 
