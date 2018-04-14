@@ -394,6 +394,7 @@ I   Basics                                1
 5   if Statements                        75
 6   Dictionaries                         95
 7   User Input and while Loops          117
+8   Functions                           133
 
 
 II  Projects                            231
