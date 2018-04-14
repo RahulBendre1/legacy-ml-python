@@ -390,6 +390,7 @@ I   Basics                                1
 1   Getting Started                       3
 2   Variables and Simple Data Types      19
 3   Introducing Lists                    37
+4   Working with Lists                   53
 
 II  Projects                            231
 
