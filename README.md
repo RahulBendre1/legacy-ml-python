@@ -364,5 +364,6 @@ II  Automating Tasks               145
 11  Web Scraping                   233
 12  Working with Excel Spreadsheets     265
 13  Working with PDF and Word Documents 295
+14  Working with CSV Files and JSON Data        319
 
 
