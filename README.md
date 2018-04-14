@@ -349,6 +349,8 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 by Al Sweigart
 at [automatetheboringstuff.com](https://automatetheboringstuff.com/)
 at Udemy/[automate](https://www.udemy.com/automate/)/[?couponCode=](https://www.udemy.com/automate/?couponCode=FOR_LIKE_10_BUCKS)
+at YouTube/[playlist?=](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
+
 
     Introduction                                              1
 I   Python Programming Basics                                11
