@@ -366,5 +366,7 @@ II  Automating Tasks               145
 13  Working with PDF and Word Documents 295
 14  Working with CSV Files and JSON Data        319
 15  Keeping Time, Scheduling Tasks, and Lauching Programs   335
+16  Sending Email and Text Messages     361
+17  Manipulating Images            387
 
 
