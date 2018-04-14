@@ -345,8 +345,9 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
     Index                          423
 
 
-## Automate the Boring Stuff with Python
+## [Automate the Boring Stuff with Python](https://nostarch.com/automatestuff)
 by Al Sweigart
+at [automatetheboringstuff.com](https://automatetheboringstuff.com/)
 
     Introduction                                              1
 I   Python Programming Basics                                11
