@@ -393,6 +393,7 @@ I   Basics                                1
 4   Working with Lists                   53
 5   if Statements                        75
 6   Dictionaries                         95
+7   User Input and while Loops          117
 
 
 II  Projects                            231
