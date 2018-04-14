@@ -245,7 +245,7 @@ tag
 
 
 
-## PyCon 2016 Python by Immersion
+## [PyCon 2016 Python by Immersion](https://www.youtube.com/watch?v=9k5687mmnoc)
 by [Stuart Williams](http://swilliams.ca)
 Twitter/[ceilous](https://twitter.com/ceilous)
 
@@ -343,4 +343,6 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 24. MapReduce                      395
 25. Go Forth and Do Data Science   407
     Index                          423
-    
+
+
+
