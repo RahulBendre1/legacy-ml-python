@@ -396,6 +396,7 @@ I   Basics                                1
 7   User Input and while Loops          117
 8   Functions                           133
 9   Classes                             161
+10  Files and Exceptions                189
 
 
 II  Projects                            231
