@@ -435,6 +435,8 @@ A Course in Three Modules, Packt Learning Path
 Module 1: Learning Python
 1   Introduction and First Steps          3
 2   Built-in Data Types                  39
+3   Iterating and Making Decisions       75
+4   Functions, Building Blocks of Code  103
 
 
 
