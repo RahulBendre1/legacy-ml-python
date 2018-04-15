@@ -463,6 +463,9 @@ Module 2: Python 3 Object-Oriented Programming
 
 Module 3: Mastering Python
 1   Getting Started - One Environment per Project         837
+2   Pythonic Syntax, Common Pitfalls, and Style Guide     849
+3   Containers and Collections - Storing Data the Right Way   885
+
 
 ```
 
