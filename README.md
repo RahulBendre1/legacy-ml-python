@@ -433,50 +433,52 @@ A Course in Three Modules, Packt Learning Path
 
 ```
 Module 1: Learning Python
-1   Introduction and First Steps          3
-2   Built-in Data Types                  39
-3   Iterating and Making Decisions       75
-4   Functions, Building Blocks of Code  103
-5   Saving Time and Memory              137
+1   Introduction and First Steps                            3
+2   Built-in Data Types                                    39
+3   Iterating and Making Decisions                         75
+4   Functions, Building Blocks of Code                    103
+5   Saving Time and Memory                                137
 6   Advanced Concepts - OOP, Decorators, and Iterators    175
 7   Testing, Profiling, and Dealing with Exceptions       215
-8   The Edges - GUIs and Scripts        249
-9   Data Science                        279
-10  Web Development Done Right          311
-11  Debugging and Troubleshooting       343
-12  Summing Up - A Complete Example     359
+8   The Edges - GUIs and Scripts                          249
+9   Data Science                                          279
+10  Web Development Done Right                            311
+11  Debugging and Troubleshooting                         343
+12  Summing Up - A Complete Example                       359
 
 Module 2: Python 3 Object-Oriented Programming
-1   Object-oriented Design              409
-2   Objects in Python                   435
-3   When Objects Are Alike              467
-4   Expecting the Unexpected            505
+1   Object-oriented Design                                409
+2   Objects in Python                                     435
+3   When Objects Are Alike                                467
+4   Expecting the Unexpected                              505
 5   When to Use Object-Oriented Programming               533
-6   Python Data Structures              563
-7   Python Object-oriented Shortcuts    605
-8   Strings and Serialization           637
-9   The Iterator Pattern                677
-10  Python Design Patterns I            709
-11  Python Design Patterns II           739
-12  Testing Object-oriented Programs    765
-13  Concurrency                         801
+6   Python Data Structures                                563
+7   Python Object-oriented Shortcuts                      605
+8   Strings and Serialization                             637
+9   The Iterator Pattern                                  677
+10  Python Design Patterns I                              709
+11  Python Design Patterns II                             739
+12  Testing Object-oriented Programs                      765
+13  Concurrency                                           801
 
 Module 3: Mastering Python
-1   Getting Started - One Environment per Project         837
-2   Pythonic Syntax, Common Pitfalls, and Style Guide     849
-3   Containers and Collections - Storing Data the Right Way   885
-4   Functional Programming - Readabilty Versus Brevity        917
-5   Decorators - Enabling Code Reuse by Decorating            939
-6   Generators and Coroutines - Infinity, One Step at a Time  977
-7   Async IO - Multithreading without Threads                1003
-8   Metaclasses - Making Classes (Not Instances) Smarter     1025
-9   Documentation - How to Use Sphinx and reStructuredText   1053
-10  Testing and Logging - Prepare for Bugs                   1093
-11  Debugging - Solving the Bugs                             1155
+1   Getting Started - One Environment per Project                      837
+2   Pythonic Syntax, Common Pitfalls, and Style Guide                  849
+3   Containers and Collections - Storing Data the Right Way            885
+4   Functional Programming - Readabilty Versus Brevity                 917
+5   Decorators - Enabling Code Reuse by Decorating                     939
+6   Generators and Coroutines - Infinity, One Step at a Time           977
+7   Async IO - Multithreading without Threads                         1003
+8   Metaclasses - Making Classes (Not Instances) Smarter              1025
+9   Documentation - How to Use Sphinx and reStructuredText            1053
+10  Testing and Logging - Prepare for Bugs                            1093
+11  Debugging - Solving the Bugs                                      1155
 12  Performance - Treacking and Reducing Your Memoty and CPU Usage    1181
 13  Multiprocessing - When a Single CPU Core Is Not Enough            1221
 14  Extensions in C/C++, System Calls, and C/C++ Libraries            1239
+15  Packaging - Creating Your Own Libraries or Applications           1265
 
+Bibliography                                                          1287
 
 ```
 
