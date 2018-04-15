@@ -437,6 +437,7 @@ Module 1: Learning Python
 2   Built-in Data Types                  39
 3   Iterating and Making Decisions       75
 4   Functions, Building Blocks of Code  103
+5   Saving Time and Memory              137
 
 
 
