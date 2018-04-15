@@ -472,6 +472,8 @@ Module 3: Mastering Python
 8   Metaclasses - Making Classes (Not Instances) Smarter     1025
 9   Documentation - How to Use Sphinx and reStructuredText   1053
 10  Testing and Logging - Prepare for Bugs                   1093
+11  Debugging - Solving the Bugs                             1155
+12  Performance - Treacking and Reducing Your Memoty and CPU Usage    1181
 
 
 ```
