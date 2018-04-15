@@ -443,6 +443,7 @@ Module 1: Learning Python
 8   The Edges - GUIs and Scripts        249
 9   Data Science                        279
 10  Web Development Done Right          311
+11  Debugging and Troubleshooting       343
 
 
 
