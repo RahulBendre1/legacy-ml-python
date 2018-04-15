@@ -452,6 +452,11 @@ Module 2: Python 3 Object-Oriented Programming
 3   When Objects Are Alike              467
 4   Expecting the Unexpected            505
 5   When to Use Object-Oriented Programming               533
+6   Python Data Structures              563
+7   Python Object-oriented Shortcuts    605
+8   Strings and Serialization           637
+9   The Iterator Pattern                677
+10  Python Design Patterns I            709
 
 
 
