@@ -438,6 +438,9 @@ Module 1: Learning Python
 3   Iterating and Making Decisions       75
 4   Functions, Building Blocks of Code  103
 5   Saving Time and Memory              137
+6   Advanced Concepts - OOP, Decorators, and Iterators    175
+7   Testing, Profiling, and Dealing with Exceptions       215
+8   The Edges - GUIs and Scripts        249
 
 
 
