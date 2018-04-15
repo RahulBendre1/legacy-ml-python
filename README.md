@@ -441,6 +441,7 @@ Module 1: Learning Python
 6   Advanced Concepts - OOP, Decorators, and Iterators    175
 7   Testing, Profiling, and Dealing with Exceptions       215
 8   The Edges - GUIs and Scripts        249
+9   Data Science                        279
 
 
 
