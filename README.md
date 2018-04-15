@@ -468,6 +468,7 @@ Module 3: Mastering Python
 4   Functional Programming - Readabilty Versus Brevity        917
 5   Decorators - Enabling Code Reuse by Decorating            939
 6   Generators and Coroutines - Infinity, One Step at a Time  977
+7   Async IO - Multithreading without Threads                1003
 
 
 ```
