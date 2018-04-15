@@ -448,6 +448,7 @@ Module 1: Learning Python
 
 Module 2: Python 3 Object-Oriented Programming
 1   Object-oriented Design              409
+2   Objects in Python                   435
 
 
 
