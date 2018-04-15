@@ -444,6 +444,7 @@ Module 1: Learning Python
 9   Data Science                        279
 10  Web Development Done Right          311
 11  Debugging and Troubleshooting       343
+12  Summing Up - A Complete Example     359
 
 
 
