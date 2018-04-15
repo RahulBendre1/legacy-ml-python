@@ -474,6 +474,8 @@ Module 3: Mastering Python
 10  Testing and Logging - Prepare for Bugs                   1093
 11  Debugging - Solving the Bugs                             1155
 12  Performance - Treacking and Reducing Your Memoty and CPU Usage    1181
+13  Multiprocessing - When a Single CPU Core Is Not Enough            1221
+14  Extensions in C/C++, System Calls, and C/C++ Libraries            1239
 
 
 ```
