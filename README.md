@@ -470,6 +470,8 @@ Module 3: Mastering Python
 6   Generators and Coroutines - Infinity, One Step at a Time  977
 7   Async IO - Multithreading without Threads                1003
 8   Metaclasses - Making Classes (Not Instances) Smarter     1025
+9   Documentation - How to Use Sphinx and reStructuredText   1053
+10  Testing and Logging - Prepare for Bugs                   1093
 
 
 ```
