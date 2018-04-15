@@ -469,6 +469,7 @@ Module 3: Mastering Python
 5   Decorators - Enabling Code Reuse by Decorating            939
 6   Generators and Coroutines - Infinity, One Step at a Time  977
 7   Async IO - Multithreading without Threads                1003
+8   Metaclasses - Making Classes (Not Instances) Smarter     1025
 
 
 ```
