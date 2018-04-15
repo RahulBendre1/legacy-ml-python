@@ -446,6 +446,7 @@ Module 1: Learning Python
 11  Debugging and Troubleshooting       343
 12  Summing Up - A Complete Example     359
 
+Module 2: Object-oriented Design        409
 
 
 ```
