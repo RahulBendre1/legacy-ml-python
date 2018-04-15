@@ -433,6 +433,7 @@ A Course in Three Modules, Packt Learning Path
 
 ```
 Module 1: Learning Python
+1   Introduction and First Steps          3
 
 
 
