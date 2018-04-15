@@ -248,7 +248,7 @@ tag
 ## [PyCon 2016 Python by Immersion](https://www.youtube.com/watch?v=9k5687mmnoc)
 by [Stuart Williams](http://swilliams.ca)
 Twitter/[ceilous](https://twitter.com/ceilous)
-
+```
 - Overview
 - Objects
 - Names
@@ -273,10 +273,10 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Function Parameters
 - Files
 - Tutorial Survey
-
+```
 ## [Doing Math with Python: Using Python to Explore Algebra, Statistics, Calculus and more!](https://nostarch.com/doingmathwithpython)
 by Amit Saha
-
+```
 - Introduction                                 
 - 1 Working with Numbers                       1 
 - 2 Visualizing Data with Graphs              27
@@ -288,20 +288,20 @@ by Amit Saha
 - Afterword                                  209
 - Appendix A Sotware Installation            213
 - Appendix B Overview of Python Topics       221
-
+```
 [doingmathwithpython.github.io](https://doingmathwithpython.github.io/)
 GitHub/[doingmathwithpython](https://github.com/doingmathwithpython)
 
 
 ## [Python for Probability, Statistics, and Machine Learning](http://www.springer.com/us/book/9783319307152)
 by Jose Unpingco
-
+```
 1. Getting Started with Scientific Python       1
 2. Probability                                 35
 3. Statistics                                 101
 4. Machine Learning                           197
    Index                                      275
-
+```
 GitHub/[unpingco/Python-for-Probability-Statistics-and-Machine-Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning)
 
 ## [Data Science from Scratch: First Principles with Python](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)
@@ -316,7 +316,7 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 - nice overview on all the different types of algorithms
 - shows you the guts of the algorithms in Python
 - sort equivalent for Machine Learning with R by Brett Lantz
-
+```
  1. Introduction                    17
  2. Crash Course in Python          35
  3. Visualizing Data                71
@@ -343,7 +343,7 @@ GitHub/[joelgrus](https://github.com/joelgrus)/[data-science-from-scratch](https
 24. MapReduce                      395
 25. Go Forth and Do Data Science   407
     Index                          423
-
+```
 
 ## [Automate the Boring Stuff with Python](https://nostarch.com/automatestuff)
 by Al Sweigart
