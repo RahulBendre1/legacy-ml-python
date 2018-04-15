@@ -451,6 +451,7 @@ Module 2: Python 3 Object-Oriented Programming
 2   Objects in Python                   435
 3   When Objects Are Alike              467
 4   Expecting the Unexpected            505
+5   When to Use Object-Oriented Programming               533
 
 
 
