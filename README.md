@@ -466,6 +466,7 @@ Module 3: Mastering Python
 2   Pythonic Syntax, Common Pitfalls, and Style Guide     849
 3   Containers and Collections - Storing Data the Right Way   885
 4   Functional Programming - Readabilty Versus Brevity        917
+5   Decorators - Enabling Code Reuse by Decorating            939
 
 
 ```
