@@ -459,6 +459,7 @@ Module 2: Python 3 Object-Oriented Programming
 10  Python Design Patterns I            709
 11  Python Design Patterns II           739
 12  Testing Object-oriented Programs    765
+13  Concurrency                         801
 
 
 
