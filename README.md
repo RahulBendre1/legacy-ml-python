@@ -565,6 +565,7 @@ by Allen B. Downey
 7   Iteration                                128
 8   Strings                                  142
 9   Case Study: Word Play                    160
+10  Lists                                    172
 
 
 
