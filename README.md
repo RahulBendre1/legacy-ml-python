@@ -577,9 +577,7 @@ by Allen B. Downey
 19  The Goodies                              333
 20  Debugging                                350
 21  Analysis of Algorithms                   368
-
-
-
+    Index                                    383
 ```
 
 
