@@ -488,5 +488,7 @@ by Zed Shaw
 ```
     Preface                   1
 0   The Setup                 6
+1   A Good First Program     12
+2   Comments and Pound Characters         18
 
 
