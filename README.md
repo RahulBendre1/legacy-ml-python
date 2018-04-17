@@ -563,6 +563,7 @@ by Allen B. Downey
 5   Conditionals and Recursion                88
 6   Fruitful Functions                       109
 7   Iteration                                128
+8   Strings                                  142
 
 
 
