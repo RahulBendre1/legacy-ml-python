@@ -560,6 +560,7 @@ by Allen B. Downey
 2   Variables, Expressions and Statements     37
 3   Functions                                 51
 4   Case Study: Interface Design              71
+5   Conditionals and Recursion                88
 
 
 
