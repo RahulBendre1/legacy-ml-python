@@ -490,5 +490,6 @@ by Zed Shaw
 0   The Setup                 6
 1   A Good First Program     12
 2   Comments and Pound Characters         18
+3   Numbers and Math                      20
 
 
