@@ -495,5 +495,6 @@ by Zed Shaw
 5   More Variables and Printing           28
 6   Strings and Text                      30
 7   More Printing                         32
+8   Printing, Printing                    34
 
 
