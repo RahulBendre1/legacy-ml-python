@@ -512,5 +512,6 @@ by Zed Shaw
 22  What Do You Know So Far               81
 23  Read Some Code                        82
 24  More Practice                         84
+25  Even More Practice                    86
 
 
