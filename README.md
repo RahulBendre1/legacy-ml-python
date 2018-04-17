@@ -496,5 +496,10 @@ by Zed Shaw
 6   Strings and Text                      30
 7   More Printing                         32
 8   Printing, Printing                    34
+9   Printing, Printing, Printing          36
+10  What Was That?                        38
+11  Asking Questions                      42
+12  Prompting People                      44
+13  Parameters, Unpacking, Variables      46
 
 
