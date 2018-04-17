@@ -492,5 +492,6 @@ by Zed Shaw
 2   Comments and Pound Characters         18
 3   Numbers and Math                      20
 4   Variables and Names                   24
+5   More Variables and Printing           28
 
 
