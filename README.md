@@ -561,6 +561,7 @@ by Allen B. Downey
 3   Functions                                 51
 4   Case Study: Interface Design              71
 5   Conditionals and Recursion                88
+6   Fruitful Functions                       109
 
 
 
