@@ -574,6 +574,7 @@ by Allen B. Downey
 16  Classes and Functions                    284
 17  Classes and Methods                      295
 18  Inheritance                              312
+19  The Goodies                              333
 
 
 
