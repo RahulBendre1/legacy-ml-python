@@ -567,6 +567,8 @@ by Allen B. Downey
 9   Case Study: Word Play                    160
 10  Lists                                    172
 11  Dictionaries                             197
+12  Tuples                                   216
+13  Case Study: Data Structure Selection     232
 
 
 
