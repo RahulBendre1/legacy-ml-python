@@ -571,6 +571,7 @@ by Allen B. Downey
 13  Case Study: Data Structure Selection     232
 14  Files                                    251
 15  Classes and Objects                      269
+16  Classes and Functions                    284
 
 
 
