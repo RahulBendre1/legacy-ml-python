@@ -572,6 +572,7 @@ by Allen B. Downey
 14  Files                                    251
 15  Classes and Objects                      269
 16  Classes and Functions                    284
+17  Classes and Methods                      295
 
 
 
