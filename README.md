@@ -506,5 +506,7 @@ by Zed Shaw
 16  Reading and Writing Files             58
 17  More Files                            62
 18  Names, Variables, Code, Functions     66
+19  Functions and Variables               70
+20  Functions and Files                   74
 
 
