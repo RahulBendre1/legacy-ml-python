@@ -557,6 +557,7 @@ by Allen B. Downey
 ```
     Preface                             8
 1   The Way of the Program             24
+2   Variables, Expressions and Statements     37
 
 
 
