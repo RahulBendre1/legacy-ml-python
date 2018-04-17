@@ -491,5 +491,6 @@ by Zed Shaw
 1   A Good First Program     12
 2   Comments and Pound Characters         18
 3   Numbers and Math                      20
+4   Variables and Names                   24
 
 
