@@ -575,6 +575,7 @@ by Allen B. Downey
 17  Classes and Methods                      295
 18  Inheritance                              312
 19  The Goodies                              333
+20  Debugging                                350
 
 
 
