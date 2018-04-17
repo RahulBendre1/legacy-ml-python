@@ -576,6 +576,7 @@ by Allen B. Downey
 18  Inheritance                              312
 19  The Goodies                              333
 20  Debugging                                350
+21  Analysis of Algorithms                   368
 
 
 
