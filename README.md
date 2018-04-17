@@ -504,5 +504,7 @@ by Zed Shaw
 14  Prompting and Passing                 50
 15  Reading Files                         54
 16  Reading and Writing Files             58
+17  More Files                            62
+18  Names, Variables, Code, Functions     66
 
 
