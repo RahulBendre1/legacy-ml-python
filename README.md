@@ -513,5 +513,6 @@ by Zed Shaw
 23  Read Some Code                        82
 24  More Practice                         84
 25  Even More Practice                    86
+26  Congratulations, Take a Test!         90
 
 
