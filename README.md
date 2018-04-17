@@ -550,3 +550,5 @@ by Zed Shaw
     Index                                279
 ```
 
+## Think Python - How to Think Lilke a Computer Scientist
+
