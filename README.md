@@ -564,6 +564,7 @@ by Allen B. Downey
 6   Fruitful Functions                       109
 7   Iteration                                128
 8   Strings                                  142
+9   Case Study: Word Play                    160
 
 
 
