@@ -551,4 +551,7 @@ by Zed Shaw
 ```
 
 ## Think Python - How to Think Lilke a Computer Scientist
+2nd Edition
+by Allen B. Downey
+
 
