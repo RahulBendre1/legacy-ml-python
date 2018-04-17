@@ -559,6 +559,7 @@ by Allen B. Downey
 1   The Way of the Program             24
 2   Variables, Expressions and Statements     37
 3   Functions                                 51
+4   Case Study: Interface Design              71
 
 
 
