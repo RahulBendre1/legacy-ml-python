@@ -566,6 +566,7 @@ by Allen B. Downey
 8   Strings                                  142
 9   Case Study: Word Play                    160
 10  Lists                                    172
+11  Dictionaries                             197
 
 
 
