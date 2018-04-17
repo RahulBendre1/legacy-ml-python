@@ -501,5 +501,8 @@ by Zed Shaw
 11  Asking Questions                      42
 12  Prompting People                      44
 13  Parameters, Unpacking, Variables      46
+14  Prompting and Passing                 50
+15  Reading Files                         54
+16  Reading and Writing Files             58
 
 
