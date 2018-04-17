@@ -483,4 +483,9 @@ Bibliography                                                          1287
 ```
 
 ## Learn Python the Hard Way
+by Zed Shaw
+
+```
+    Preface                   1
+
 
