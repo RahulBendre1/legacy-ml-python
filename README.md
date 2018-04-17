@@ -508,5 +508,8 @@ by Zed Shaw
 18  Names, Variables, Code, Functions     66
 19  Functions and Variables               70
 20  Functions and Files                   74
+21  Functions Can Return Something        78
+22  What Do You Know So Far               81
+23  Read Some Code                        82
 
 
