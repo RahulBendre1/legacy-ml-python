@@ -528,6 +528,7 @@ by Zed Shaw
 38  Doing Things to Lists                128
 39  Dictionaries, Oh Lovely Dictionaries 132
 40  Modules, Classes, and Objects        138
+41  Learning to Speak Object Oriented    144
 
 ...
 ```
