@@ -517,6 +517,7 @@ by Zed Shaw
 27  Memorizing Logic                      92
 28  Boolean Practice                      96
 29  What If                              100
+30  Else and If                          102
 
 ...
 ```
