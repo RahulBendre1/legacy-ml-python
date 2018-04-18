@@ -519,6 +519,7 @@ by Zed Shaw
 29  What If                              100
 30  Else and If                          102
 31  Making Decisions                     104
+32  Loops and Lists                      106
 
 ...
 ```
