@@ -518,6 +518,7 @@ by Zed Shaw
 28  Boolean Practice                      96
 29  What If                              100
 30  Else and If                          102
+31  Making Decisions                     104
 
 ...
 ```
