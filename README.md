@@ -532,6 +532,7 @@ by Zed Shaw
 42  Is-A, Has-A, Objects, and Classes    150
 43  Basic OO Analysis and Design         156
 44  Inheritance vs. Composition          170
+45  You Make a Game                      180
 
 ...
 ```
