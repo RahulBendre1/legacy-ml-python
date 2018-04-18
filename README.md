@@ -533,6 +533,7 @@ by Zed Shaw
 43  Basic OO Analysis and Design         156
 44  Inheritance vs. Composition          170
 45  You Make a Game                      180
+46  A Project Skeleton                   184
 
 ...
 ```
