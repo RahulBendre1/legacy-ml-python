@@ -524,6 +524,7 @@ by Zed Shaw
 34  Accessing Elements of Lists          114
 35  Branches and Functions               116
 36  Designing and Debugging              120
+37  Symbol Review                        122
 
 ...
 ```
