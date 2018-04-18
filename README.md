@@ -534,6 +534,9 @@ by Zed Shaw
 44  Inheritance vs. Composition          170
 45  You Make a Game                      180
 46  A Project Skeleton                   184
+47  Automated Testing                    190
+48  Advanced User Input                  194
+49  Making Sentences                     200
 
 ...
 ```
