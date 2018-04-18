@@ -531,6 +531,7 @@ by Zed Shaw
 41  Learning to Speak Object Oriented    144
 42  Is-A, Has-A, Objects, and Classes    150
 43  Basic OO Analysis and Design         156
+44  Inheritance vs. Composition          170
 
 ...
 ```
