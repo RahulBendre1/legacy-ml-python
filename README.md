@@ -529,6 +529,7 @@ by Zed Shaw
 39  Dictionaries, Oh Lovely Dictionaries 132
 40  Modules, Classes, and Objects        138
 41  Learning to Speak Object Oriented    144
+42  Is-A, Has-A, Objects, and Classes    150
 
 ...
 ```
