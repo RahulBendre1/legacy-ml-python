@@ -538,7 +538,14 @@ by Zed Shaw
 48  Advanced User Input                  194
 49  Making Sentences                     200
 50  Your First Website                   206
+51  Getting Input from a Browser         214
+52  The Start of Your Web Game           226
 
-...
+    Next Steps                           237
+    Advice from an Old Programmer        241
+
+    Appendix: Coomand Line Crash Course  243
+
+    Index                                279
 ```
 
