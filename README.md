@@ -521,6 +521,7 @@ by Zed Shaw
 31  Making Decisions                     104
 32  Loops and Lists                      106
 33  While-Loops                          110
+34  Accessing Elements of Lists          114
 
 ...
 ```
