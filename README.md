@@ -520,6 +520,7 @@ by Zed Shaw
 30  Else and If                          102
 31  Making Decisions                     104
 32  Loops and Lists                      106
+33  While-Loops                          110
 
 ...
 ```
