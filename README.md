@@ -522,6 +522,7 @@ by Zed Shaw
 32  Loops and Lists                      106
 33  While-Loops                          110
 34  Accessing Elements of Lists          114
+35  Branches and Functions               116
 
 ...
 ```
