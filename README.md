@@ -530,6 +530,7 @@ by Zed Shaw
 40  Modules, Classes, and Objects        138
 41  Learning to Speak Object Oriented    144
 42  Is-A, Has-A, Objects, and Classes    150
+43  Basic OO Analysis and Design         156
 
 ...
 ```
