@@ -526,6 +526,7 @@ by Zed Shaw
 36  Designing and Debugging              120
 37  Symbol Review                        122
 38  Doing Things to Lists                128
+39  Dictionaries, Oh Lovely Dictionaries 132
 
 ...
 ```
