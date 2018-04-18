@@ -525,6 +525,7 @@ by Zed Shaw
 35  Branches and Functions               116
 36  Designing and Debugging              120
 37  Symbol Review                        122
+38  Doing Things to Lists                128
 
 ...
 ```
