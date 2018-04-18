@@ -527,6 +527,7 @@ by Zed Shaw
 37  Symbol Review                        122
 38  Doing Things to Lists                128
 39  Dictionaries, Oh Lovely Dictionaries 132
+40  Modules, Classes, and Objects        138
 
 ...
 ```
