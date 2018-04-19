@@ -638,6 +638,7 @@ III Perspective                                         179
 20  Problem Solving                                     241
 21  Dynamic Programming                                 253
     The Most Profound Academic Joke Ever Told           253
+    A Memoir by Richard Hammin                          254
 
     Index                                               307
 
