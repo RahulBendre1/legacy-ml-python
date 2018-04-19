@@ -615,6 +615,7 @@ I   Not Learned in School                                 1
     Advice for Developing Programmers (pain management)   6 
 2   Coding Tricks                                        15
 3   Style                                                27
+4   More Coding Tricks                                   35
 
 ```
 
