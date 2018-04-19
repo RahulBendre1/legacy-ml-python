@@ -581,4 +581,6 @@ by Allen B. Downey
 ```
 
 ## Hitchhiker's Guide to Python - Best Practies for Development
+by Kenneth Reitz & Tanya Schlusser
+
 
