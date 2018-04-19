@@ -625,6 +625,7 @@ II  Coding Advice                                        53
 9   Stop Coding                                         105
 10  Testing                                             111
 11  Defensive Programming                               123
+12  Refactoring                                         127
 
 
 ```
