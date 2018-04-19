@@ -618,6 +618,7 @@ I   Not Learned in School                                 1
 4   More Coding Tricks                                   35
 
 II  Coding Advice                                        53
+5   Funcion Design                                       55
 
 
 ```
