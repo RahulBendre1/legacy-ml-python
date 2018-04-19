@@ -636,6 +636,7 @@ III Perspective                                         179
 18  Do Not Snub Inefficient Algorithms                  209
 19  Problems Worth Solving                              221
 20  Problem Solving                                     241
+    The Evolution of a Programmer                       252
 21  Dynamic Programming                                 253
     The Most Profound Academic Joke Ever Told           253
     A Memoir by Richard Hammin                          254
