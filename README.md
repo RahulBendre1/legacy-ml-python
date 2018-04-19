@@ -643,6 +643,7 @@ IV  Walk the Talk                                       219
 21  Dynamic Programming                                 253
     The Most Profound Academic Joke Ever Told           253
     A Memoir by Richard Hammin                          254
+    The Wayfarer                                        255
 
     Index                                               307
 
