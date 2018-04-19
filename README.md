@@ -637,6 +637,7 @@ III Perspective                                         179
 19  Problems Worth Solving                              221
 20  Problem Solving                                     241
 21  Dynamic Programming                                 253
+    The Most Profound Academic Joke Ever Told           253
 
     Index                                               307
 
