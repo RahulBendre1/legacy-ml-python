@@ -587,6 +587,7 @@ by Kenneth Reitz & Tanya Schlusser
 I   Getting Started                             1
 1   Picking an Interpreter                      3
 2   Properly Intalling Python                   9
+3   Your Development Environment               21
 
 
 
