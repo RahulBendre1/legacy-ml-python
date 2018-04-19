@@ -631,9 +631,12 @@ II  Coding Advice                                        53
 
 III Perspective                                         179
 15  A Lesson in Design                                  181
+    How to Approach a Major Computer Science Project    193
 16  Beware of OOP                                       197
 17  The Evolution of a Function                         203
 18  Do Not Snub Inefficient Algorithms                  209
+
+IV  Walk the Talk                                       219
 19  Problems Worth Solving                              221
 20  Problem Solving                                     241
     The Evolution of a Programmer                       252
