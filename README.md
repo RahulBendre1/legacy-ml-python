@@ -596,6 +596,8 @@ II  Getting Down to Business                   41
 
 III Scenario Guide                            183
 7   User Interaction                          185
+8   Code Management and Improvement           213
+9   Software Interfaces                       237
 
 ```
 
