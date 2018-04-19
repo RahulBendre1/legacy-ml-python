@@ -621,6 +621,7 @@ II  Coding Advice                                        53
 5   Funcion Design                                       55
 6   Self-Documenting Code                                67
 7   Step-Wise Refinement                                 91
+8   Comments                                             95
 
 
 ```
