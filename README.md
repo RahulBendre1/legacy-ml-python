@@ -610,8 +610,9 @@ A   Additional Notes                          287
 by Michael Stueben
 
 ```
-I   Not Learned in School                       1
-   
+I   Not Learned in School                                 1
+1   A Coding Fantasy                                      3
+    Advice for Developing Programmers (pain management)   6 
 
 ```
 
