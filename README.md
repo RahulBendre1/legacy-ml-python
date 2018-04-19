@@ -636,6 +636,7 @@ III Perspective                                         179
 18  Do Not Snub Inefficient Algorithms                  209
 19  Problems Worth Solving                              221
 20  Problem Solving                                     241
+21  Dynamic Programming                                 253
 
 
 ```
