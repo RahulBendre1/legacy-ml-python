@@ -606,7 +606,7 @@ A   Additional Notes                          287
 
 ```
 
-## Good Habits for Great Coding - Improving Programming Skill with Examples in Python
+## Good Habits for Great Coding - Improving Programming Skills with Examples in Python
 by Michael Stueben
 
 ```
