@@ -626,6 +626,7 @@ II  Coding Advice                                        53
 10  Testing                                             111
 11  Defensive Programming                               123
 12  Refactoring                                         127
+13  Write the Tests First (Sometimes)                   145
 
 
 ```
