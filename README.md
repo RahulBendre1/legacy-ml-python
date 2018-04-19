@@ -622,6 +622,7 @@ II  Coding Advice                                        53
 6   Self-Documenting Code                                67
 7   Step-Wise Refinement                                 91
 8   Comments                                             95
+9   Stop Coding                                         105
 
 
 ```
