@@ -584,8 +584,8 @@ by Allen B. Downey
 by Kenneth Reitz & Tanya Schlusser
 
 ```
-I   Getting Started
-
+I   Getting Started                             1
+1   Picking an Interpreter                      3
 
 
 ```
