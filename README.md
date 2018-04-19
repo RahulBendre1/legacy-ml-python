@@ -635,6 +635,7 @@ III Perspective                                         179
 17  The Evolution of a Function                         203
 18  Do Not Snub Inefficient Algorithms                  209
 19  Problems Worth Solving                              221
+20  Problem Solving                                     241
 
 
 ```
