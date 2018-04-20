@@ -657,6 +657,7 @@ by Fabrizio Romano
 2   Built-in Data Types                                  37
 3   Iterating and Making Decisions                       73
 4   Functions, the Building Blocks of Code              101
+5   Saving Time and Memory                              135
 
 
 ```
