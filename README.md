@@ -663,6 +663,7 @@ by Fabrizio Romano
 8   The Edges - GUIs and Scripts                        247
 9   Data Science                                        227
 10  Web Development Done Right                          309
+11  Debugging and Troubleshooting                       341
 
 
 ```
