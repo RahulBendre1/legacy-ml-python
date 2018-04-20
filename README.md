@@ -662,6 +662,7 @@ by Fabrizio Romano
 7   Testing, Profiling, and Dealing with Exceptions     213
 8   The Edges - GUIs and Scripts                        247
 9   Data Science                                        227
+10  Web Development Done Right                          309
 
 
 ```
