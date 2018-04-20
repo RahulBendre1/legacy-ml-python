@@ -659,6 +659,7 @@ by Fabrizio Romano
 4   Functions, the Building Blocks of Code              101
 5   Saving Time and Memory                              135
 6   Advanced Concepts - OOP, Decorators, and Iterators  173
+7   Testing, Profiling, and Dealing with Exceptions     213
 
 
 ```
