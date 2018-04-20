@@ -661,6 +661,7 @@ by Fabrizio Romano
 6   Advanced Concepts - OOP, Decorators, and Iterators  173
 7   Testing, Profiling, and Dealing with Exceptions     213
 8   The Edges - GUIs and Scripts                        247
+9   Data Science                                        227
 
 
 ```
