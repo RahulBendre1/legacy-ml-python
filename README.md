@@ -660,6 +660,7 @@ by Fabrizio Romano
 5   Saving Time and Memory                              135
 6   Advanced Concepts - OOP, Decorators, and Iterators  173
 7   Testing, Profiling, and Dealing with Exceptions     213
+8   The Edges - GUIs and Scripts                        247
 
 
 ```
