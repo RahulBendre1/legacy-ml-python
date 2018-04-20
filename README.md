@@ -655,6 +655,8 @@ by Fabrizio Romano
 ```
 1   Introduction and First Steps - Take a Deep Breath     1
 2   Built-in Data Types                                  37
+3   Iterating and Making Decisions                       73
+4   Functions, the Building Blocks of Code              101
 
 
 ```
