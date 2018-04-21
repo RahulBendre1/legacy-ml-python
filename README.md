@@ -677,6 +677,7 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 [py4e](https://www.py4e.com/)
 [/materials](https://www.py4e.com/materials)
 [/code](https://www.py4e.com/code3/)
+[/book](https://www.py4e.com/book.php)
 [/lessons](https://www.py4e.com/lessons)
 
 
