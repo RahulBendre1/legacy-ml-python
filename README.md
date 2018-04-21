@@ -691,6 +691,7 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 5   Functions
 6   Loops and Iterations
 7   Strings
+8   Files
 
 
 ```
