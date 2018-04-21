@@ -690,6 +690,7 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 4   Conditional Execution
 5   Functions
 6   Loops and Iterations
+7   Strings
 
 
 ```
