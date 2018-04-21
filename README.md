@@ -672,6 +672,7 @@ by Fabrizio Romano
 
 ## Python for Everyone
 
+[py4e](https://www.py4e.com/)
 [/code](https://www.py4e.com/code3/)
 
 
