@@ -694,6 +694,7 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 8   Files
 9   Lists
 10  Dictionaries
+11  Tuples
 
 
 ```
