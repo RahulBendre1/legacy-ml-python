@@ -695,6 +695,7 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 9   Lists
 10  Dictionaries
 11  Tuples
+12  Regular Expressions
 
 
 ```
