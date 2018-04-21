@@ -683,5 +683,9 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 
 [/playlist](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
 
+```
+1   Installing Python
 
+
+```
 
