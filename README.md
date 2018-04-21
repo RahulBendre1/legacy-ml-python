@@ -670,7 +670,7 @@ by Fabrizio Romano
 ```
 
 
-## Python for Everyone
+## Python for Everyone - Explore Data Using Python 3
 
 Coursera[/specializations/python](https://www.coursera.org/specializations/python)
 
@@ -685,22 +685,22 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 
 ```
 1   Installing Python
-2   Why Program?
-3   Variables, Expressions, and Statements
-4   Conditional Execution
-5   Functions
-6   Loops and Iterations
-7   Strings
-8   Files
-9   Lists
-10  Dictionaries
-11  Tuples
-12  Regular Expressions
-13  Network Programmming
-14  Using Web Services
-15  Object-Oriented Programming
-16  Databases
-17  Data Visualization
+2   Why Program?                                  7
+3   Variables, Expressions, and Statements       23
+4   Conditional Execution                        35
+5   Functions                                    47
+6   Loops and Iterations                         61
+7   Strings                                      71
+8   Files                                        83
+9   Lists                                        95
+10  Dictionaries                                111
+11  Tuples                                      121
+12  Regular Expressions                         133
+13  Network Programming                         147
+14  Using Web Services                          161
+15  Object-Oriented Programming                 175
+16  Databases                                   189
+17  Data Visualization                          213
 
 ```
 
