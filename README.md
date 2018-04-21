@@ -693,6 +693,7 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 7   Strings
 8   Files
 9   Lists
+10  Dictionaries
 
 
 ```
