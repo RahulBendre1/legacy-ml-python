@@ -704,6 +704,6 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 
 ```
 
-## Intro to Computer Science
+## [Intro to Computer Science CS101](https://udacity.com/course/intro-to-computer-science--cs101)
 by Udacity
 
