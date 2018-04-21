@@ -696,6 +696,7 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 10  Dictionaries
 11  Tuples
 12  Regular Expressions
+13  Network Programmming
 
 
 ```
