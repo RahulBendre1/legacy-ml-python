@@ -687,6 +687,7 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 1   Installing Python
 2   Why Program?
 3   Variables, Expressions, and Statements
+4   Conditional Execution
 
 
 ```
