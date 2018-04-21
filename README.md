@@ -713,5 +713,7 @@ by Udacity
 ## [Introduction to Python](https://br.udacity.com/course/introduction-to-python--ud1110)
 by Udacity
 
+[/ud1110](https://classroom.udacity.com/courses/ud1110)
+
 
 
