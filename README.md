@@ -681,4 +681,7 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 [/lectures](https://www.py4e.com/lectures3/)
 [/lessons](https://www.py4e.com/lessons)
 
+[/playlist](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
+
+
 
