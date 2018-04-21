@@ -675,6 +675,7 @@ by Fabrizio Romano
 Coursera[/specializations/python](https://www.coursera.org/specializations/python)
 
 [py4e](https://www.py4e.com/)
+[/materials](https://www.py4e.com/materials)
 [/code](https://www.py4e.com/code3/)
 [/lessons](https://www.py4e.com/lessons)
 
