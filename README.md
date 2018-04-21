@@ -711,6 +711,7 @@ by Udacity
 
 
 ## [Introduction to Python](https://br.udacity.com/course/introduction-to-python--ud1110)
+by Udacity
 
 
 
