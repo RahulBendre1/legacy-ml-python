@@ -700,7 +700,7 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 14  Using Web Services
 15  Object-Oriented Programming
 16  Databases
-
+17  Data Visualization
 
 ```
 
