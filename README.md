@@ -710,7 +710,7 @@ by Udacity
 [/cs101](https://classroom.udacity.com/courses/cs101)
 
 
-## Introduction to Python
+## [Introduction to Python](https://br.udacity.com/course/introduction-to-python--ud1110)
 
 
 
