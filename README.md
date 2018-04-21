@@ -689,6 +689,7 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 3   Variables, Expressions, and Statements
 4   Conditional Execution
 5   Functions
+6   Loops and Iterations
 
 
 ```
