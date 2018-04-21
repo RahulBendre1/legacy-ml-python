@@ -670,7 +670,7 @@ by Fabrizio Romano
 ```
 
 
-## Python for Everyone - Explore Data Using Python 3
+## Python for Everyone - Exploring Data Using Python 3
 
 Coursera[/specializations/python](https://www.coursera.org/specializations/python)
 
