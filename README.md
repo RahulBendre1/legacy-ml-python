@@ -672,6 +672,8 @@ by Fabrizio Romano
 
 ## Python for Everyone
 
+Coursera[/specializations/python](https://www.coursera.org/specializations/python)
+
 [py4e](https://www.py4e.com/)
 [/code](https://www.py4e.com/code3/)
 
