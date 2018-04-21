@@ -685,6 +685,7 @@ Coursera[/specializations/python](https://www.coursera.org/specializations/pytho
 
 ```
 1   Installing Python
+2   Why Program?
 
 
 ```
