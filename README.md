@@ -722,6 +722,7 @@ by Udacity
 1   Python Syntax
 2   Strings and Console Output
 3   Conditionals and Control Flow
+4   Functions
 ```
 
 
