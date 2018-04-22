@@ -723,6 +723,7 @@ by Udacity
 2   Strings and Console Output
 3   Conditionals and Control Flow
 4   Functions
+5   Lists & Dictionaries
 ```
 
 
