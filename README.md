@@ -737,12 +737,13 @@ by Udacity
 
 
 # [Learn Computer Science in 5 Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
-by Siraj Raval
+by Siraj Raval on YouTube/[-OvRVlqKebI](https://youtu.be/-OvRVlqKebI)
 
 ## Week 1-2 (Learn Python)
 
   https://automatetheboringstuff.com/
 
+  https://www.codecademy.com/learn/learn-python
 
 ## Week 3-4 (Data Structures)
 
