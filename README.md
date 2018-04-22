@@ -755,5 +755,7 @@ by Siraj Raval
 
 ## Week 13-14 (Data Science)
 
+## Week 15-16 (Computer Vision)
+
 
 
