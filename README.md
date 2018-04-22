@@ -757,5 +757,7 @@ by Siraj Raval
 
 ## Week 15-16 (Computer Vision)
 
+## Week 17-18 (Natural Language Processing)
+
 
 
