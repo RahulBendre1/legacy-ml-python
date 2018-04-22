@@ -716,6 +716,6 @@ by Udacity
 [/ud1110](https://classroom.udacity.com/courses/ud1110)
 
 
-## CODECADEMY - Learn Python
+## [CODECADEMY - Learn Python](https://www.codecademy.com/learn/learn-python#)
 
 
