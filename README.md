@@ -727,6 +727,7 @@ by Udacity
 6   Student Becomes the Teacher
 7   Lists and Functions
 8   Loops
+9   Exam Statistics
 ```
 
 
