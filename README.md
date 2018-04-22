@@ -747,4 +747,7 @@ by Siraj Raval
 
 ## Week 7 (Databases)
 
+## Week 8 (Networking)
+
+
 
