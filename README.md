@@ -741,3 +741,8 @@ by Siraj Raval
 
 ### Week 1-2 (Learn Python)
 
+Week 3-4 (Data Structures)
+
+Week 5-6 (Algorithms)
+
+
