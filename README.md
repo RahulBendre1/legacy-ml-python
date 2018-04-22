@@ -736,13 +736,14 @@ by Udacity
 ```
 
 
-## [Learn Computer Science in 5 Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
+# [Learn Computer Science in 5 Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
 by Siraj Raval
 
-### Week 1-2 (Learn Python)
+## Week 1-2 (Learn Python)
 
-Week 3-4 (Data Structures)
+## Week 3-4 (Data Structures)
 
-Week 5-6 (Algorithms)
+## Week 5-6 (Algorithms)
+
 
 
