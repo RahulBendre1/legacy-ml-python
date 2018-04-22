@@ -745,5 +745,6 @@ by Siraj Raval
 
 ## Week 5-6 (Algorithms)
 
+## Week 7 (Databases)
 
 
