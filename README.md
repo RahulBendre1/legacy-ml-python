@@ -720,6 +720,7 @@ by Udacity
 
 ```
 1   Python Syntax
+2   Strings and Console Output
 ```
 
 
