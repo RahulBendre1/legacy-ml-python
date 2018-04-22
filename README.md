@@ -741,6 +741,9 @@ by Siraj Raval
 
 ## Week 1-2 (Learn Python)
 
+  https://automatetheboringstuff.com/
+
+
 ## Week 3-4 (Data Structures)
 
 ## Week 5-6 (Algorithms)
