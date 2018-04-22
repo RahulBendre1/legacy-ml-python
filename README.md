@@ -729,6 +729,7 @@ by Udacity
 8   Loops
 9   Exam Statistics
 10  Advanced Topics in Python
+11  Introduction to Classes
 ```
 
 
