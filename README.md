@@ -725,6 +725,7 @@ by Udacity
 4   Functions
 5   Lists & Dictionaries
 6   Student Becomes the Teacher
+7   Lists and Functions
 ```
 
 
