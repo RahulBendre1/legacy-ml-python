@@ -791,6 +791,7 @@ by Siraj Raval on YouTube/[-OvRVlqKebI](https://youtu.be/-OvRVlqKebI)
 16  Classes and Functions                   155
 17  Classes and MEthods                     161
 18  Inheritance                             171
+19  The Goodies                             183
 
 
 
