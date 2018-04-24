@@ -782,6 +782,8 @@ by Siraj Raval on YouTube/[-OvRVlqKebI](https://youtu.be/-OvRVlqKebI)
 7   Iteration                                63
 8   Strings                                  71
 9   Case Study: word play                    83
+10  Lists                                    89
+
 
 
 ```
