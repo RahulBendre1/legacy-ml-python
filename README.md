@@ -783,6 +783,7 @@ by Siraj Raval on YouTube/[-OvRVlqKebI](https://youtu.be/-OvRVlqKebI)
 8   Strings                                  71
 9   Case Study: word play                    83
 10  Lists                                    89
+11  Dictionaries                            103
 
 
 
