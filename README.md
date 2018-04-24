@@ -779,6 +779,7 @@ by Siraj Raval on YouTube/[-OvRVlqKebI](https://youtu.be/-OvRVlqKebI)
 4   Case Study: interface design             29
 5   Conditionals and recursion               39
 6   Fruitful functions                       51
+7   Iteration                                63
 
 
 ```
