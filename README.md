@@ -780,6 +780,7 @@ by Siraj Raval on YouTube/[-OvRVlqKebI](https://youtu.be/-OvRVlqKebI)
 5   Conditionals and recursion               39
 6   Fruitful functions                       51
 7   Iteration                                63
+8   Strings                                  71
 
 
 ```
