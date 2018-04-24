@@ -793,8 +793,7 @@ by Siraj Raval on YouTube/[-OvRVlqKebI](https://youtu.be/-OvRVlqKebI)
 18  Inheritance                             171
 19  The Goodies                             183
 20  Debugging                               193
-
-
+21  Analysis of Algorithms                  201
 
 ```
 
