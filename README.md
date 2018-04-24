@@ -789,6 +789,7 @@ by Siraj Raval on YouTube/[-OvRVlqKebI](https://youtu.be/-OvRVlqKebI)
 14  Files                                   137
 15  Classes and Objects                     147
 16  Classes and Functions                   155
+17  Classes and MEthods                     161
 
 
 
