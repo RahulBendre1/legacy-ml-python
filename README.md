@@ -790,6 +790,7 @@ by Siraj Raval on YouTube/[-OvRVlqKebI](https://youtu.be/-OvRVlqKebI)
 15  Classes and Objects                     147
 16  Classes and Functions                   155
 17  Classes and MEthods                     161
+18  Inheritance                             171
 
 
 
