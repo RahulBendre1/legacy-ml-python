@@ -777,6 +777,7 @@ by Siraj Raval on YouTube/[-OvRVlqKebI](https://youtu.be/-OvRVlqKebI)
 2   Variables, expressions and statements     9
 3   Functions                                17
 4   Case Study: interface design             29
+5   Conditionals and recursion               39
 
 
 ```
