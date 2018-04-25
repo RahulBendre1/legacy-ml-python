@@ -808,7 +808,6 @@ by Allen B. Downey
 4   Cumulative Distribution Functions        45
 5   Modeling Distributions                   57
 6   Probabilty Density Functions             75
-
-
+7   Relationships Between Variables          91
 ```
 
