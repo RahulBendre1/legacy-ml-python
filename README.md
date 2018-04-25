@@ -798,5 +798,6 @@ by Siraj Raval on YouTube/[-OvRVlqKebI](https://youtu.be/-OvRVlqKebI)
 ```
 
 ## Thinks Stats - Exploratory Data Analysis in Python
+by Allen B. Downey
 
 
