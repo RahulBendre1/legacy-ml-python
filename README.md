@@ -803,6 +803,10 @@ by Allen B. Downey
 ```
     Preface
 1   Exploratory Data Analysis                 1
+2   Distributions                            17
+3   Probability Mass Functions               31
+4   Cumulative Distribution Functions        45
+5   Modeling Distributions                   57
 
 
 ```
