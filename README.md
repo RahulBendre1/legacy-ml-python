@@ -811,5 +811,6 @@ by Allen B. Downey
 7   Relationships Between Variables          91
 8   Estimation                              105
 9   Hipotesis Testing                       117
+10  Linear Least Squares                    137
 ```
 
