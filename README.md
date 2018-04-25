@@ -813,5 +813,6 @@ by Allen B. Downey
 9   Hipotesis Testing                       117
 10  Linear Least Squares                    137
 11  Regression                              153
+12  Time Series Analysis                    173
 ```
 
