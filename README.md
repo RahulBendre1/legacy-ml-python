@@ -807,6 +807,7 @@ by Allen B. Downey
 3   Probability Mass Functions               31
 4   Cumulative Distribution Functions        45
 5   Modeling Distributions                   57
+6   Probabilty Density Functions             75
 
 
 ```
