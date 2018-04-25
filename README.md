@@ -815,6 +815,7 @@ by Allen B. Downey
 11  Regression                              153
 12  Time Series Analysis                    173
 13  Survival Analysis                       195
+14  Analytic Methods                        217
 
 ```
 
