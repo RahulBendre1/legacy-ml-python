@@ -810,5 +810,6 @@ by Allen B. Downey
 6   Probabilty Density Functions             75
 7   Relationships Between Variables          91
 8   Estimation                              105
+9   Hipotesis Testing                       117
 ```
 
