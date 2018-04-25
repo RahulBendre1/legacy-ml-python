@@ -812,5 +812,6 @@ by Allen B. Downey
 8   Estimation                              105
 9   Hipotesis Testing                       117
 10  Linear Least Squares                    137
+11  Regression                              153
 ```
 
