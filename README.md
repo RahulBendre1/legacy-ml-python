@@ -814,5 +814,7 @@ by Allen B. Downey
 10  Linear Least Squares                    137
 11  Regression                              153
 12  Time Series Analysis                    173
+13  Survival Analysis                       195
+
 ```
 
