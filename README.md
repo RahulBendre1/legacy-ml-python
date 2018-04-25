@@ -802,6 +802,7 @@ by Allen B. Downey
 
 ```
     Preface
+1   Exploratory Data Analysis                 1
 
 
 ```
