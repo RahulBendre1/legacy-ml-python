@@ -836,6 +836,7 @@ by Allen B. Downey
 9   Two Dimensions                           97
 10  Approximate Bayesian Computation        109
 11  Hypotesis Testing                       125
+12  Evidence                                131
 
 ```
 
