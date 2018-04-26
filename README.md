@@ -830,6 +830,7 @@ by Allen B. Downey
 3   Estimation                               21
 4   More Estimation                          33
 5   Odds and Addends                         43
+6   Decision Analysis                        55
 
 ```
 
