@@ -855,6 +855,7 @@ by Allen B. Downey
 4   Scale-free Networks                      47
 5   Celullar Automatons                      67
 6   Game of Life                             89
+7   Physical Modeling                       103
 
 ```
 
