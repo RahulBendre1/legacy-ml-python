@@ -858,6 +858,8 @@ by Allen B. Downey
 7   Physical Modeling                       103
 8   Self-organized Criticality              119
 9   Agent-based Models                      141
+10  Herds, Flocks, and Traffic Jams         159
+
 
 ```
 
