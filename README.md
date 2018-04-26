@@ -856,6 +856,7 @@ by Allen B. Downey
 5   Celullar Automatons                      67
 6   Game of Life                             89
 7   Physical Modeling                       103
+8   Self-organized Criticality              119
 
 ```
 
