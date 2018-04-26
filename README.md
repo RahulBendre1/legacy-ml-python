@@ -854,6 +854,7 @@ by Allen B. Downey
 3   Small World Graphs                       27
 4   Scale-free Networks                      47
 5   Celullar Automatons                      67
+6   Game of Life                             89
 
 ```
 
