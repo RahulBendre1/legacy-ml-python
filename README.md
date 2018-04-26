@@ -819,3 +819,7 @@ by Allen B. Downey
 
 ```
 
+
+## Think Bayes - Bayesian Statistics Made Simple
+
+
