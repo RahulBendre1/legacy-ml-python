@@ -857,6 +857,7 @@ by Allen B. Downey
 6   Game of Life                             89
 7   Physical Modeling                       103
 8   Self-organized Criticality              119
+9   Agent-based Models                      141
 
 ```
 
