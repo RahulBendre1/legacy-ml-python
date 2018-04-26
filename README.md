@@ -851,6 +851,7 @@ by Allen B. Downey
     Preface
 1   Complexity Science                        1
 2   Graphs                                   11
+3   Small World Graphs                       27
  
 
 ```
