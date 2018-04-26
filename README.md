@@ -839,6 +839,7 @@ by Allen B. Downey
 12  Evidence                                131
 13  Simulation                              145
 14  Hierarchical Model                      159
+15  Dealing with Dimensions                 167
 
 ```
 
