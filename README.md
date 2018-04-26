@@ -831,6 +831,9 @@ by Allen B. Downey
 4   More Estimation                          33
 5   Odds and Addends                         43
 6   Decision Analysis                        55
+7   Prediction                               69
+8   Observer Bias                            81
+9   Two Dimensions                           97
 
 ```
 
