@@ -861,7 +861,7 @@ by Allen B. Downey
 10  Herds, Flocks, and Traffic Jams         159
 11  Evolution                               171
 12  Evolution of Cooperation                189
-13  Analysis of Algorithms                  209
+A   Analysis of Algorithms                  209
 B   Reading List                            227
 
 ```
