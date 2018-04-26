@@ -860,6 +860,7 @@ by Allen B. Downey
 9   Agent-based Models                      141
 10  Herds, Flocks, and Traffic Jams         159
 11  Evolution                               171
+12  Evolution of Cooperation                189
 
 
 ```
