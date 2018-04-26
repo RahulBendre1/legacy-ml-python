@@ -829,6 +829,7 @@ by Allen B. Downey
 2   Computational Statistics                 11
 3   Estimation                               21
 4   More Estimation                          33
+5   Odds and Addends                         43
 
 ```
 
