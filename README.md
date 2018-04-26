@@ -826,7 +826,9 @@ by Allen B. Downey
 ```
     Preface
 1   Bayes' Theorem                            1
-
+2   Computational Statistics                 11
+3   Estimation                               21
+4   More Estimation                          33
 
 ```
 
