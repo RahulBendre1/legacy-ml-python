@@ -834,6 +834,8 @@ by Allen B. Downey
 7   Prediction                               69
 8   Observer Bias                            81
 9   Two Dimensions                           97
+10  Approximate Bayesian Computation        109
+11  Hypotesis Testing                       125
 
 ```
 
