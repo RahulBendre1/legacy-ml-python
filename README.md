@@ -837,6 +837,8 @@ by Allen B. Downey
 10  Approximate Bayesian Computation        109
 11  Hypotesis Testing                       125
 12  Evidence                                131
+13  Simulation                              145
+14  Hierarchical Model                      159
 
 ```
 
