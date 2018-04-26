@@ -852,7 +852,8 @@ by Allen B. Downey
 1   Complexity Science                        1
 2   Graphs                                   11
 3   Small World Graphs                       27
- 
+4   Scale-free Networks                      47
+5   Celullar Automatons                      67
 
 ```
 
