@@ -877,6 +877,7 @@ by Allen B. Downey
 3   Non-Periodic Signals                     23
 4   Noise                                    37
 5   Autocorrelation                          51
+6   Discrete Cosine Transform                63
 
 ```
 
