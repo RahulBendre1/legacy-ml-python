@@ -876,6 +876,7 @@ by Allen B. Downey
 2   Harmonics                                13
 3   Non-Periodic Signals                     23
 4   Noise                                    37
+5   Autocorrelation                          51
 
 ```
 
