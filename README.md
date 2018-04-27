@@ -880,6 +880,7 @@ by Allen B. Downey
 6   Discrete Cosine Transform                63
 7   Discrete Fourier Transform               75
 8   Filtering and Convolution                91
+9   Differentiation and Integration         105
 
 ```
 
