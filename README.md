@@ -878,6 +878,7 @@ by Allen B. Downey
 4   Noise                                    37
 5   Autocorrelation                          51
 6   Discrete Cosine Transform                63
+7   Discrete Fourier Transform               75
 
 ```
 
