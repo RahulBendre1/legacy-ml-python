@@ -879,6 +879,7 @@ by Allen B. Downey
 5   Autocorrelation                          51
 6   Discrete Cosine Transform                63
 7   Discrete Fourier Transform               75
+8   Filtering and Convolution                91
 
 ```
 
