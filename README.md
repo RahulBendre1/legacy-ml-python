@@ -875,6 +875,7 @@ by Allen B. Downey
 1   Sounds and Signals                        1
 2   Harmonics                                13
 3   Non-Periodic Signals                     23
+4   Noise                                    37
 
 ```
 
