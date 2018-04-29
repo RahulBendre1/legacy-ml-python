@@ -917,7 +917,7 @@ by Joey Bernard
 4   Files and I/O                            27
 5   Python Data Analysis with pandas         37
 6   Functions                                49
-7
+7   Classes and Objects                      55
 8
 9
 10
