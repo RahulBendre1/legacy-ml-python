@@ -896,6 +896,7 @@ by Allen B. Downey
 2   Simulation                               17
 3   Explanation                              31
 4   Prediction                               51
+5   Design                                   71
 
 
 ```
