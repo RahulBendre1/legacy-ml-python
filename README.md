@@ -888,5 +888,6 @@ by Allen B. Downey
 
 
 ## Modeling and Simulation in Python
+by Allen B. Downey
 
 
