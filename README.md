@@ -912,7 +912,7 @@ by Joey Bernard
 
 ```
 1   Strings and Texts                         1
-2
+2   Number, Dates, and Times                 11
 3
 4
 5
