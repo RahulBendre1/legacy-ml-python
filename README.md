@@ -908,5 +908,6 @@ by Allen B. Downey
 ```
 
 ## Python Recipes Handbook - A Problem-Solution Approach
+by Joey Bernard
 
 
