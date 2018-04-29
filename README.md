@@ -912,8 +912,8 @@ by Joey Bernard
 
 ```
 1   Strings and Texts                         1
-2   Numbers, Dates, and Times                 11
-3   
+2   Numbers, Dates, and Times                11
+3   Iterators and Generators                 21
 4
 5
 6
