@@ -899,6 +899,7 @@ by Allen B. Downey
 5   Design                                   71
 6   Analysis                                 91
 7   Thermal Systems                         103
+8   Pharmacokinetics                        119
 
 
 ```
