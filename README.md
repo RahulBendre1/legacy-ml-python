@@ -906,3 +906,7 @@ by Allen B. Downey
 12  Second Order Systems                    183
 
 ```
+
+## Python Recipes Handbook - A Problem-Solution Approach
+
+
