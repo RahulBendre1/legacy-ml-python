@@ -916,7 +916,7 @@ by Joey Bernard
 3   Iterators and Generators                 21
 4   Files and I/O                            27
 5   Python Data Analysis with pandas         37
-6
+6   Functions                                49
 7
 8
 9
