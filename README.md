@@ -894,6 +894,6 @@ by Allen B. Downey
     Preface
 1   Modeling                                  1
 2   Simulation                               17
-
+3   Explanation                              31
 
 ```
