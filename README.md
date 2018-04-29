@@ -898,6 +898,7 @@ by Allen B. Downey
 4   Prediction                               51
 5   Design                                   71
 6   Analysis                                 91
+7   Thermal Systems                         103
 
 
 ```
