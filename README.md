@@ -911,7 +911,7 @@ by Allen B. Downey
 by Joey Bernard
 
 ```
-1
+1   Strings and Texts                         1
 2
 3
 4
