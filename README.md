@@ -910,4 +910,24 @@ by Allen B. Downey
 ## Python Recipes Handbook - A Problem-Solution Approach
 by Joey Bernard
 
+```
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+    Index                                   121
+
+```
 
