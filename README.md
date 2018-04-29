@@ -918,8 +918,8 @@ by Joey Bernard
 5   Python Data Analysis with pandas         37
 6   Functions                                49
 7   Classes and Objects                      55
-8
-9
+8   Metaprogramming                          63
+9   
 10
 11
 12
