@@ -921,7 +921,7 @@ by Joey Bernard
 8   Metaprogramming                          63
 9   Networking and the Internet              69
 10  Modules and Packages                     77
-11
+11  Numerics and Numpy                       81
 12
 13
 14
