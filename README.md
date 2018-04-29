@@ -902,6 +902,7 @@ by Allen B. Downey
 8   Pharmacokinetics                        119
 9   Projectiles                             137
 10  Two Dimensions                          151
+11  Rotation                                165
 
 
 ```
