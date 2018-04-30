@@ -591,7 +591,9 @@ IV  Intermediate Projects               106
 27  tr                                  114
 28  sh                                  116
 29  diff and patch                      118
-30  Parsing Text                        120
+
+V   Parsing Text                        120
+30  Finite State Machines               122
 
 ```
 
