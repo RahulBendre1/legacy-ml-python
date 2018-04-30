@@ -561,6 +561,7 @@ I   Initial Knowlwdge                     2
 3   On Quality                           16
 
 II  Quick Hacks                          20
+4   Dealing with Command Line Arguments  24
 
 ```
 
