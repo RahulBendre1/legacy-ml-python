@@ -551,6 +551,8 @@ by Zed Shaw
 ```
 
 ## Learn More Python the Hard Way
+by Zed Shaw
+
 
 
 ## Think Python - How to Think Lilke a Computer Scientist
