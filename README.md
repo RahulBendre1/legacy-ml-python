@@ -573,6 +573,7 @@ II  Quick Hacks                          20
 
 III Data Structures                      46
 13  Single Linked Lists                  50
+14  Double Linked Lists                  58
 
 ```
 
