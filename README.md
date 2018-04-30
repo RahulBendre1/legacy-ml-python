@@ -557,6 +557,7 @@ by Zed Shaw
 I   Initial Knowlwdge                     2
 0   The Setup                             6
 1   On Process                           10
+2   On Creativity                        14
 
 ```
 
