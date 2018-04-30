@@ -580,6 +580,7 @@ III Data Structures                      46
 18  Measuring Performance                82
 19  Improving Performance                88
 20  Binary Search Trees                  92
+21  Binary Search                        96
 
 ```
 
