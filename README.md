@@ -550,6 +550,9 @@ by Zed Shaw
     Index                                279
 ```
 
+## Learn More Python the Hard Way
+
+
 ## Think Python - How to Think Lilke a Computer Scientist
 2nd Edition
 by Allen B. Downey
