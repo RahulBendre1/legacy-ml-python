@@ -550,7 +550,7 @@ by Zed Shaw
     Index                                279
 ```
 
-## Learn More Python the Hard Way
+## Learn More Python the Hard Way - The Next Step for New Python Programmers
 by Zed Shaw
 
 
