@@ -560,6 +560,8 @@ I   Initial Knowlwdge                     2
 2   On Creativity                        14
 3   On Quality                           16
 
+II  Quick Hacks                          20
+
 ```
 
 
