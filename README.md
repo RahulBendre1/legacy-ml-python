@@ -566,6 +566,7 @@ II  Quick Hacks                          20
 6   find                                 28
 7   grep                                 32
 8   cut                                  34
+9   sed                                  36
 
 ```
 
