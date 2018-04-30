@@ -555,6 +555,7 @@ by Zed Shaw
 
 ```
 I   Initial Knowlwdge                     2
+0   The Setup                             6
 
 ```
 
