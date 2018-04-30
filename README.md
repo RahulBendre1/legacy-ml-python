@@ -558,6 +558,7 @@ I   Initial Knowlwdge                     2
 0   The Setup                             6
 1   On Process                           10
 2   On Creativity                        14
+3   On Quality                           16
 
 ```
 
