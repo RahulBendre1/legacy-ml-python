@@ -579,6 +579,7 @@ III Data Structures                      46
 17  Dictionary                           74
 18  Measuring Performance                82
 19  Improving Performance                88
+20  Binary Search Trees                  92
 
 ```
 
