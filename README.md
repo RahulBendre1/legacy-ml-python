@@ -565,6 +565,7 @@ II  Quick Hacks                          20
 5   cat                                  26
 6   find                                 28
 7   grep                                 32
+8   cut                                  34
 
 ```
 
