@@ -605,6 +605,7 @@ V   Parsing Text                        120
 VI  SQL and Object Relational Mapping   158
 38  Introduction to SQL                 160
 39  Creating with SQL                   164
+40  Reading with SQL                    168
 
 ```
 
