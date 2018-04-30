@@ -553,6 +553,10 @@ by Zed Shaw
 ## Learn More Python the Hard Way - The Next Step for New Python Programmers
 by Zed Shaw
 
+```
+I   Initial Knowlwdge                     2
+
+```
 
 
 ## Think Python - How to Think Lilke a Computer Scientist
