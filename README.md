@@ -599,6 +599,7 @@ V   Parsing Text                        120
 33  Parsers                             136
 34  Analyzers                           144
 35  Interpreters                        150
+36  Simple Calculator                   154
 
 ```
 
