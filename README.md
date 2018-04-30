@@ -607,6 +607,7 @@ VI  SQL and Object Relational Mapping   158
 39  Creating with SQL                   164
 40  Reading with SQL                    168
 41  Updating with SQL                   172
+42  Deleting with SQL                   176
 
 ```
 
