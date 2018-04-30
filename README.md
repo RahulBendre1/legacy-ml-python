@@ -562,6 +562,8 @@ I   Initial Knowlwdge                     2
 
 II  Quick Hacks                          20
 4   Dealing with Command Line Arguments  24
+5   cat                                  26
+6   find                                 28
 
 ```
 
