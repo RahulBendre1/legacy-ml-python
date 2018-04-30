@@ -578,6 +578,7 @@ III Data Structures                      46
 16  Bubble, Quick, and Merge Sort        66
 17  Dictionary                           74
 18  Measuring Performance                82
+19  Improving Performance                88
 
 ```
 
