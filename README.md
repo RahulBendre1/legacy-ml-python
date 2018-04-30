@@ -574,6 +574,8 @@ II  Quick Hacks                          20
 III Data Structures                      46
 13  Single Linked Lists                  50
 14  Double Linked Lists                  58
+15  Stacks and Queues                    62
+16  Bubble, Quick, and Merge Sort        66
 
 ```
 
