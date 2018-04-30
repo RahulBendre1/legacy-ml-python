@@ -597,6 +597,7 @@ V   Parsing Text                        120
 31  Regular Expressions                 126
 32  Scanners                            130
 33  Parsers                             136
+34  Analyzers                           144
 
 ```
 
