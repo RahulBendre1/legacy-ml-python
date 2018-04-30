@@ -589,6 +589,7 @@ IV  Intermediate Projects               106
 25  xargs                               108
 26  hexdump                             110
 27  tr                                  114
+28  sh                                  116
 
 ```
 
