@@ -581,6 +581,7 @@ III Data Structures                      46
 19  Improving Performance                88
 20  Binary Search Trees                  92
 21  Binary Search                        96
+22  Suffix Arrays                        98
 
 ```
 
