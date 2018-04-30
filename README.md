@@ -576,6 +576,7 @@ III Data Structures                      46
 14  Double Linked Lists                  58
 15  Stacks and Queues                    62
 16  Bubble, Quick, and Merge Sort        66
+17  Dictionary                           74
 
 ```
 
