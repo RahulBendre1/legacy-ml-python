@@ -583,6 +583,7 @@ III Data Structures                      46
 21  Binary Search                        96
 22  Suffix Arrays                        98
 23  Ternary Search Trees                100
+24  Fast URL Search                     104
 
 ```
 
