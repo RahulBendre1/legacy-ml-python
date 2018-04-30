@@ -568,6 +568,7 @@ II  Quick Hacks                          20
 8   cut                                  34
 9   sed                                  36
 10  sort                                 38
+11  uniq                                 40
 
 ```
 
