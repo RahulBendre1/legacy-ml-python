@@ -582,6 +582,7 @@ III Data Structures                      46
 20  Binary Search Trees                  92
 21  Binary Search                        96
 22  Suffix Arrays                        98
+23  Ternary Search Trees                100
 
 ```
 
