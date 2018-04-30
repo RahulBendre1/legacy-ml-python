@@ -609,6 +609,8 @@ VI  SQL and Object Relational Mapping   158
 41  Updating with SQL                   172
 42  Deleting with SQL                   176
 43  SQL Administration                  180
+44  Using Python's Database API         184
+
 
 ```
 
