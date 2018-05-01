@@ -1040,6 +1040,9 @@ by John Keyser
 21  Recursion and Running Times                     228
 22  Graphs and Trees                                238
 23  Graph Search adn a Word Game                    248
+24  Parallel Computing is Here                      260
+
+    Supplemental Material
 
 
 ```
