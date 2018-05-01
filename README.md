@@ -1032,6 +1032,7 @@ by John Keyser
 13  Game Design with Functions                     132
 14  Bottom-Up Design, Turtle Graphics, Robotics    146
 15  Event-Driven Programming                       157
+16  Visualizing Data and Creating Simulations      170
 
 
 ```
