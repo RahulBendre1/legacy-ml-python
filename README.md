@@ -1017,5 +1017,6 @@ by John Keyser
     Installing Python and Pycharm             4
 
     Lecture Guides
+1   What is Programming? Why Python?          9
 
 ```
