@@ -1035,6 +1035,7 @@ by John Keyser
 16  Visualizing Data and Creating Simulations      170
 17  Classes and Object-Oriented Programming        182
 18  Objects with Inheritance and Polymorphism      193
+19  Data Structures: Stack, Queue, Dictionary, Set 205
 
 
 ```
