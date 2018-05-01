@@ -1016,4 +1016,6 @@ by John Keyser
     Course Scope                              1
     Installing Python and Pycharm             4
 
+    Lecture Guides
+
 ```
