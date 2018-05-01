@@ -1027,6 +1027,7 @@ by John Keyser
 8   Top-Down Design of a Data Analysis Program      79
 9   Functions and Abstraction                       92
 10  Parameter Passing, Scope, and Mutable Data     103
+11  Error Types, Systematic Debugging, Exceptions  113
 
 
 ```
