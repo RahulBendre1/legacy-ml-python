@@ -1022,5 +1022,6 @@ by John Keyser
 3   Conditionals and Booleand Expressions    26
 4   Basic Program Development and Testing    39
 5   Loops and Iterations                     48
+6   Files and Strings                        59
 
 ```
