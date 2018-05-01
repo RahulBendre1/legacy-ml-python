@@ -1029,6 +1029,7 @@ by John Keyser
 10  Parameter Passing, Scope, and Mutable Data     103
 11  Error Types, Systematic Debugging, Exceptions  113
 12  Python Standard Library, Modules, Packages     124
+13  Game Design with Functions                     132
 
 
 ```
