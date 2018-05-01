@@ -1013,5 +1013,7 @@ by John Keyser
     Course Guidebook
 
 0   Introduction                              1
+    Course Scope                              1
+    Installing Python and Pycharm             4
 
 ```
