@@ -1021,5 +1021,6 @@ by John Keyser
 2   Variables: Operations and Input/Output   16
 3   Conditionals and Booleand Expressions    26
 4   Basic Program Development and Testing    39
+5   Loops and Iterations                     48
 
 ```
