@@ -1024,6 +1024,7 @@ by John Keyser
 5   Loops and Iterations                     48
 6   Files and Strings                        59
 7   Operations with Lists                    66
+8   Top-Down Design of a Data Analysis Program      79
 
 
 ```
