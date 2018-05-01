@@ -1019,5 +1019,6 @@ by John Keyser
     Lecture Guides
 1   What is Programming? Why Python?          9
 2   Variables: Operations and Input/Output   16
+3   Conditionals and Booleand Expressions    26
 
 ```
