@@ -1012,41 +1012,41 @@ by John Keyser
 ```
     Course Guidebook
 
-0   Introduction                              1
-    Course Scope                              1
-    Installing Python and Pycharm             4
+      Introduction
+      Course Scope                                      1
+      Installing Python and Pycharm                     4
 
-    Lecture Guides
-1   What is Programming? Why Python?          9
-2   Variables: Operations and Input/Output   16
-3   Conditionals and Booleand Expressions    26
-4   Basic Program Development and Testing    39
-5   Loops and Iterations                     48
-6   Files and Strings                        59
-7   Operations with Lists                    66
-8   Top-Down Design of a Data Analysis Program      79
-9   Functions and Abstraction                       92
-10  Parameter Passing, Scope, and Mutable Data     103
-11  Error Types, Systematic Debugging, Exceptions  113
-12  Python Standard Library, Modules, Packages     124
-13  Game Design with Functions                     132
-14  Bottom-Up Design, Turtle Graphics, Robotics    146
-15  Event-Driven Programming                       157
-16  Visualizing Data and Creating Simulations      170
-17  Classes and Object-Oriented Programming        182
-18  Objects with Inheritance and Polymorphism      193
-19  Data Structures: Stack, Queue, Dictionary, Set 205
-20  Algorithms: Searching and Sorting              216
-21  Recursion and Running Times                     228
-22  Graphs and Trees                                238
-23  Graph Search adn a Word Game                    248
-24  Parallel Computing is Here                      260
+      Lecture Guides
+ 1    What is Programming? Why Python?                  9
+ 2    Variables: Operations and Input/Output           16
+ 3    Conditionals and Booleand Expressions            26
+ 4    Basic Program Development and Testing            39
+ 5    Loops and Iterations                             48
+ 6    Files and Strings                                59
+ 7    Operations with Lists                            66
+ 8    Top-Down Design of a Data Analysis Program       79
+ 9    Functions and Abstraction                        92
+10    Parameter Passing, Scope, and Mutable Data      103
+11    Error Types, Systematic Debugging, Exceptions   113
+12    Python Standard Library, Modules, Packages      124
+13    Game Design with Functions                      132
+14    Bottom-Up Design, Turtle Graphics, Robotics     146
+15    Event-Driven Programming                        157
+16    Visualizing Data and Creating Simulations       170
+17    Classes and Object-Oriented Programming         182
+18    Objects with Inheritance and Polymorphism       193
+19    Data Structures: Stack, Queue, Dictionary, Set  205
+20    Algorithms: Searching and Sorting               216
+21    Recursion and Running Times                     228
+22    Graphs and Trees                                238
+23    Graph Search adn a Word Game                    248
+24    Parallel Computing is Here                      260
 
-    Supplemental Material
-    Answers                                         269
-    Glossary                                        293
-    Python Commands                                 310
-    Python Modules and Packages Used                312
-
+      Supplemental Material
+      Answers                                         269
+      Glossary                                        293
+      Python Commands                                 310
+      Python Modules and Packages Used                312
+      Bibliography                                    314
 
 ```
