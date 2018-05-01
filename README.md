@@ -1006,5 +1006,7 @@ by Joey Bernard
 ```
 
 
-## TGC - How to Program
+## TGC - How to Program - Computer Science Concepts and Python Exercises
+by John Keyser
+
 
