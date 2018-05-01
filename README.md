@@ -1028,6 +1028,7 @@ by John Keyser
 9   Functions and Abstraction                       92
 10  Parameter Passing, Scope, and Mutable Data     103
 11  Error Types, Systematic Debugging, Exceptions  113
+12  Python Standard Library, Modules, Packages     124
 
 
 ```
