@@ -1026,6 +1026,7 @@ by John Keyser
 7   Operations with Lists                    66
 8   Top-Down Design of a Data Analysis Program      79
 9   Functions and Abstraction                       92
+10  Parameter Passing, Scope, and Mutable Data     103
 
 
 ```
