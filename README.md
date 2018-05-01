@@ -1018,5 +1018,6 @@ by John Keyser
 
     Lecture Guides
 1   What is Programming? Why Python?          9
+2   Variables: Operations and Input/Output   16
 
 ```
