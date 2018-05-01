@@ -1023,5 +1023,7 @@ by John Keyser
 4   Basic Program Development and Testing    39
 5   Loops and Iterations                     48
 6   Files and Strings                        59
+7   Operations with Lists                    66
+
 
 ```
