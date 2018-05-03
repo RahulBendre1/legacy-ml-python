@@ -1073,6 +1073,7 @@ III   NumPy                                               16
 
 IV    MAtrices                                            43
 7     Vectors and Vectors Arithmetic                      44
+8     Vector Norms                                        53
 
 
 ```
