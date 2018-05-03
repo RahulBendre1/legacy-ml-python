@@ -1066,5 +1066,7 @@ II    Foundations                           1
 2     Linear Algebra and Machine Learning   7
 3     Examples of Linear Algebra in Machine Learning      11
 
+III   NumPy                                               16
+
 
 ```
