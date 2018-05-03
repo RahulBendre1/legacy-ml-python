@@ -1064,6 +1064,7 @@ I     Introduction
 II    Foundations                           1
 1     Introduction to Linear Algebra        2
 2     Linear Algebra and Machine Learning   7
+3     Examples of Linear Algebra in Machine Learning      11
 
 
 ```
