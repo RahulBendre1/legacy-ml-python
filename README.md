@@ -1072,6 +1072,7 @@ III   NumPy                                               16
 6     Numpy Array Broadcasting                            35
 
 IV    MAtrices                                            43
+7     Vectors and Vectors Arithmetic                      44
 
 
 ```
