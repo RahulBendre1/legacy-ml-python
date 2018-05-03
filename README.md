@@ -1051,3 +1051,6 @@ by John Keyser
       Bibliography                                    314
 
 ```
+
+### Basic Linear Algebra for Machine Learning
+
