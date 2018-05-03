@@ -1054,4 +1054,6 @@ by John Keyser
 
 ### Basic Linear Algebra for Machine Learning
 Discover the Mathematical Language of Data in Python
+by Jason Brownlee
+
 
