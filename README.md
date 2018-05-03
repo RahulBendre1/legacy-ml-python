@@ -1071,5 +1071,7 @@ III   NumPy                                               16
 5     Index, Slice and Reshape NumPy Arrays               23
 6     Numpy Array Broadcasting                            35
 
+IV    MAtrices                                            43
+
 
 ```
