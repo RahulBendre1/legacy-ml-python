@@ -1076,6 +1076,7 @@ IV    MAtrices                                            43
 8     Vector Norms                                        53
 9     Matrices and Matrix Arithmetic                      58
 10    Types of Matrices                                   71
+11    Matrix Operations                                   80
 
 
 ```
