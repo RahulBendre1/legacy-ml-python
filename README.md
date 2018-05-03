@@ -1068,6 +1068,7 @@ II    Foundations                           1
 
 III   NumPy                                               16
 4     Introduction to NumPy Arrays                        17
+5     Index, Slice and Reshape NumPy Arrays               23
 
 
 ```
