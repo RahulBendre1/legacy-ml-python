@@ -1062,6 +1062,7 @@ MACHINE LEARNING MASTERY
 I     Introduction
 
 II    Foundations                           1
+1     Introduction to Linear Algebra        2
 
 
 ```
