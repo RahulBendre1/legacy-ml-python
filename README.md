@@ -1078,6 +1078,7 @@ IV    MAtrices                                            43
 10    Types of Matrices                                   71
 11    Matrix Operations                                   80
 12    Sparse Matrices                                     90
+13    Tensors and Tensor Aritnmetic                       98
 
 
 ```
