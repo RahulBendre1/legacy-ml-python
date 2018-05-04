@@ -1088,6 +1088,7 @@ V     Factorization                                      108
 VI    Statistics
       Introduction to Multivariate Statistics
       Principal Component Analysis
+      Linear Regression
 
 
 ```
