@@ -1091,6 +1091,7 @@ VI    Statistics
       Linear Regression
 
 VII   Apendix
+      Getting Help
 
 
 ```
