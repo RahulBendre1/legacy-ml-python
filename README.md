@@ -1092,6 +1092,7 @@ VI    Statistics
 
 VII   Apendix
       Getting Help
+      How to Setup a Workstation for Python
 
 
 ```
