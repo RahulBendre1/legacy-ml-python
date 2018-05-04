@@ -1085,6 +1085,7 @@ V     Factorization                                      108
 15    Eigendecomposition                                 116
 16    Singular Value Decomposition
 
+VI    Statistics
 
 
 ```
