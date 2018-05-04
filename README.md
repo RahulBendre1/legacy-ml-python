@@ -1093,6 +1093,7 @@ VI    Statistics
 VII   Apendix
       Getting Help
       How to Setup a Workstation for Python
+      Linear Algebra Cheat Sheet
 
 
 ```
