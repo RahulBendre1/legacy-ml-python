@@ -1096,5 +1096,7 @@ VII   Apendix
       Linear Algebra Cheat Sheet
       Basic Math Notation
 
+VII   Conclusions
+
 
 ```
