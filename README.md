@@ -1083,6 +1083,8 @@ IV    MAtrices                                            43
 V     Factorization                                      108
 14    Matrix Decomposition                               109
 15    Eigendecomposition                                 116
+16    Singular Value Decomposition
+
 
 
 ```
