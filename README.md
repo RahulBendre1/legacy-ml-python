@@ -1086,6 +1086,7 @@ V     Factorization                                      108
 16    Singular Value Decomposition
 
 VI    Statistics
+      Introduction to Multivariate Statistics
 
 
 ```
