@@ -1122,6 +1122,7 @@ II    Distributions and Hypothesis Tests
 10    Analysis of Survival Times                          175
 
 III   Statistical Modeling
+11    Linear Regression Models                            183
 
 
 
