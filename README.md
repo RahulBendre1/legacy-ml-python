@@ -1119,6 +1119,7 @@ II    Distributions and Hypothesis Tests
 7     Hipothesis Tests                                    121
 8     Tests of Means of Numerical Data                    139
 9     Tests on Categorical Data                           159
+10    Analysis of Survival Times                          175
 
 
 
