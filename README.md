@@ -1115,6 +1115,14 @@ I     Pyton and Statistics
 
 II    Distributions and Hypothesis Tests
 5     Background                                           75
+6     Distribution of One Variable                         89
+
+
+
+
+
+
+
 
 
 ```
