@@ -1123,6 +1123,7 @@ II    Distributions and Hypothesis Tests
 
 III   Statistical Modeling
 11    Linear Regression Models                            183
+12    Multivariate Data Analysis                          221
 
 
 
