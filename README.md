@@ -1117,6 +1117,7 @@ II    Distributions and Hypothesis Tests
 5     Background                                           75
 6     Distribution of One Variable                         89
 7     Hipothesis Tests                                    121
+8     Tests of Means of Numerical Data                    139
 
 
 
