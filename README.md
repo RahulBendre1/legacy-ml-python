@@ -1127,6 +1127,8 @@ III   Statistical Modeling
 13    Tests on Discrete Data                              227
 14    Bayesian Statistics                                 237
 
+      Solutions                                           245
+
 
 
 
