@@ -1128,6 +1128,7 @@ III   Statistical Modeling
 14    Bayesian Statistics                                 237
 
       Solutions                                           245
+      Glossary                                            267
 
 
 
