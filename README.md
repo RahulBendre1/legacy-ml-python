@@ -1125,6 +1125,7 @@ III   Statistical Modeling
 11    Linear Regression Models                            183
 12    Multivariate Data Analysis                          221
 13    Tests on Discrete Data                              227
+14    Bayesian Statistics                                 237
 
 
 
