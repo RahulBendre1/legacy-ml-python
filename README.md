@@ -1132,12 +1132,6 @@ III   Statistical Modeling
       References                                          273
       Index                                               275
 
-
-
-
-
-
-
 ```
 
 
