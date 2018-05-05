@@ -1129,6 +1129,7 @@ III   Statistical Modeling
 
       Solutions                                           245
       Glossary                                            267
+      References                                          273
 
 
 
