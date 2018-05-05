@@ -1104,5 +1104,7 @@ VII   Conclusions
 
 
 ## An Introduction to Statistics with Python - With Applications in the Life Sciences
+by Thomas Haslwanter
+
 
 
