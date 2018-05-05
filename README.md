@@ -1111,6 +1111,7 @@ I     Pyton and Statistics
 1     Why Statistics?                                       3
 2     Python                                                5
 3     Data Imput                                           43
+4     Display of Statistical Data                          51
 
 
 ```
