@@ -1135,7 +1135,7 @@ III   Statistical Modeling
 ```
 
 ## [Learn Python 3 Visually](http://pythonvisually.com/)
-by Ivelin Demirov
+by [Ivelin Demirov](https://www.amazon.com/Ivelin-Demirov/e/B00LELN358/ref=dp_byline_cont_ebooks_1)
 
 ```
       Why Python?
