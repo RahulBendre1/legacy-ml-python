@@ -1158,6 +1158,7 @@ by Ivelin Demirov
       Import Statements and Python Modules and Packages
       File Operations Using OS Module
       Regular Expressions
+      Math Module
 
 ```
 
