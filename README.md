@@ -1166,9 +1166,9 @@ by [Ivelin Demirov](https://www.amazon.com/Ivelin-Demirov/e/B00LELN358/ref=dp_by
 
 ```
 
-## [DeepLearningCourses](https://deeplearningcourses.com)
-by [LazyProgrammer.me](https://LazyProgrammer.me)
+## [LazyProgrammer](https://LazyProgrammer.me)
 
+[DeepLearningCourses](https://deeplearningcourses.com)
 [/catalog](https://deeplearningcourses.com/catalog)
 
 
