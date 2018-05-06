@@ -1188,5 +1188,6 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Unsupervised Deep Learning in Python
 
+#### Unsupervised Machine Learning Hidden Markov Models in Python
 
 
