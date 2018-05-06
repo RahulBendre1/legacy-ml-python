@@ -1149,6 +1149,7 @@ by Ivelin Demirov
       Functions
       If/Else and Conditional Statements
       Classes and Objects
+      Collections
 
 ```
 
