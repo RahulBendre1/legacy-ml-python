@@ -1146,6 +1146,7 @@ by Ivelin Demirov
       Basic Math
       String Operations
       Comments
+      Functions
 
 ```
 
