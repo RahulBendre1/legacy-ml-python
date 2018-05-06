@@ -1145,6 +1145,7 @@ by Ivelin Demirov
       Data Types
       Basic Math
       String Operations
+      Comments
 
 ```
 
