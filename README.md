@@ -1148,6 +1148,7 @@ by Ivelin Demirov
       Comments
       Functions
       If/Else and Conditional Statements
+      Classes and Objects
 
 ```
 
