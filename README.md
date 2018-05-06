@@ -1152,6 +1152,7 @@ by Ivelin Demirov
       Collections
       Tuples
       Lists
+      Loops
 
 ```
 
