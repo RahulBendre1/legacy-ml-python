@@ -1174,6 +1174,7 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Deep Learning Prerequisites: Logistic Regression in Python
 
+#### Data Science: Deep Learning in Python
 
 
 
