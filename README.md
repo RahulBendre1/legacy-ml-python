@@ -1134,7 +1134,7 @@ III   Statistical Modeling
 
 ```
 
-## Learn Python 3 Visually
+## [Learn Python 3 Visually](http://pythonvisually.com/)
 by Ivelin Demirov
 
 ```
