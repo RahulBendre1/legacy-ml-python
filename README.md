@@ -1196,5 +1196,7 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Data Science: Supervised Machine Learning in Python
 
+#### Deep Learning Prerequisites: The Numpy Stack in Python
+
 
 
