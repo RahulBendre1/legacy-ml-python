@@ -1204,6 +1204,8 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Artificial Intelligence: Reinforcement Learning in Python
 
+#### Advanced AI: Deep Reinforcement Learning in Python
+
 
 
 
