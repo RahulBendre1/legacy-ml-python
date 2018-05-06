@@ -1144,6 +1144,7 @@ by Ivelin Demirov
       Variables
       Data Types
       Basic Math
+      String Operations
 
 ```
 
