@@ -1206,6 +1206,8 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Advanced AI: Deep Reinforcement Learning in Python
 
+#### Deep Learning: GANs and Variational Autoencoders
+
 
 
 
