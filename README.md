@@ -1210,5 +1210,8 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Deep Learning: Advanced Computer Vision
 
+#### Deep Learning: Advanced NLP and RNNs
+
+
 
 
