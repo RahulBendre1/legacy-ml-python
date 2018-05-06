@@ -1180,6 +1180,6 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Modern Deep Learning in Python
 
-
+#### Data Analytics: SQL for Newbs, Beginners and MArketers
 
 
