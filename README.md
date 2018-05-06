@@ -1180,7 +1180,7 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Modern Deep Learning in Python
 
-#### Data Analytics: SQL for Newbs, Beginners and MArketers
+#### Data Analytics: SQL for Newbs, Beginners and Marketers
 
 #### Deep Learning: Convolutional Neural Networks in Python
 
@@ -1200,7 +1200,7 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Bayesian Machine Learning in Python: A/B Testing
 
-#### Ensemble Machine Learning in Python: Random FOrest, AdaBoost
+#### Ensemble Machine Learning in Python: Random Forest, AdaBoost
 
 #### Artificial Intelligence: Reinforcement Learning in Python
 
