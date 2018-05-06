@@ -1192,4 +1192,7 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Deep Learning: Recurrent Neural Networks in Python
 
+#### Natural Language Processing with Deep Learning in Python
+
+
 
