@@ -1208,6 +1208,7 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Deep Learning: GANs and Variational Autoencoders
 
+#### Deep Learning: Advanced Computer Vision
 
 
 
