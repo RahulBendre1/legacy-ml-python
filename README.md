@@ -1160,6 +1160,6 @@ by Ivelin Demirov
       Regular Expressions
       Math Module
       JSON
-
+      SQL: Sqlite3
 ```
 
