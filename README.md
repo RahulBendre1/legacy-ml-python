@@ -1178,5 +1178,8 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Data Science: Natural Language Processing (NLP) in Python
 
+#### Modern Deep Learning in Python
+
+
 
 
