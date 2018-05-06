@@ -1198,5 +1198,8 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Deep Learning Prerequisites: The Numpy Stack in Python
 
+#### Bayesian Machine Learning in Python: A/B Testing
+
+
 
 
