@@ -1182,4 +1182,6 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Data Analytics: SQL for Newbs, Beginners and MArketers
 
+#### Deep Learning: Convolutional Neural Networks in Python
+
 
