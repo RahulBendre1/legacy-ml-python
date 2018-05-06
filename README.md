@@ -1194,5 +1194,7 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Natural Language Processing with Deep Learning in Python
 
+#### Data Science: Supervised Machine Learning in Python
+
 
 
