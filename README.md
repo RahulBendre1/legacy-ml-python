@@ -1216,6 +1216,7 @@ by [Ivelin Demirov](https://www.amazon.com/Ivelin-Demirov/e/B00LELN358/ref=dp_by
 
 /books
 
-`
+#### Deep Learning in Python
+
 
 
