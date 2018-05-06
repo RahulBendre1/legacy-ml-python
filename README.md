@@ -1151,6 +1151,7 @@ by Ivelin Demirov
       Classes and Objects
       Collections
       Tuples
+      Lists
 
 ```
 
