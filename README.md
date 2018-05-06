@@ -1220,6 +1220,7 @@ by [Ivelin Demirov](https://www.amazon.com/Ivelin-Demirov/e/B00LELN358/ref=dp_by
 
 #### Unsupervised Deep Learning in Python
 
+#### Unsupervised Machine Learning in Python
 
 
 
