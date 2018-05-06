@@ -1150,6 +1150,7 @@ by Ivelin Demirov
       If/Else and Conditional Statements
       Classes and Objects
       Collections
+      Tuples
 
 ```
 
