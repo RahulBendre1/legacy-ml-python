@@ -1190,4 +1190,6 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Unsupervised Machine Learning Hidden Markov Models in Python
 
+#### Deep Learning: Recurrent Neural Networks in Python
+
 
