@@ -1169,6 +1169,8 @@ by [Ivelin Demirov](https://www.amazon.com/Ivelin-Demirov/e/B00LELN358/ref=dp_by
 ## [DeepLearningCourses](https://deeplearningcourses.com)
 by [LazyProgrammer.me](https://LazyProgrammer.me)
 
+[/catalog](https://deeplearningcourses.com/catalog)
+
 
 #### Deep Learning Prerequisites: Linear Regression in Python
 
