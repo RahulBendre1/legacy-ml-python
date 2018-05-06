@@ -1157,6 +1157,7 @@ by Ivelin Demirov
       Exceptions
       Import Statements and Python Modules and Packages
       File Operations Using OS Module
+      Regular Expressions
 
 ```
 
