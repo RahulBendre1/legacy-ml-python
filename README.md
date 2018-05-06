@@ -1214,6 +1214,8 @@ by [Ivelin Demirov](https://www.amazon.com/Ivelin-Demirov/e/B00LELN358/ref=dp_by
 
 #### Deep Learning: Advanced NLP and RNNs
 
+/books
 
+`
 
 
