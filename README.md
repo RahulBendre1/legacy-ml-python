@@ -1154,6 +1154,7 @@ by Ivelin Demirov
       Lists
       Loops
       File Operations
+      Exceptions
 
 ```
 
