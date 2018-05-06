@@ -1143,6 +1143,7 @@ by Ivelin Demirov
       Hello World!
       Variables
       Data Types
+      Basic Math
 
 ```
 
