@@ -1142,6 +1142,7 @@ by Ivelin Demirov
       Installation
       Hello World!
       Variables
+      Data Types
 
 ```
 
