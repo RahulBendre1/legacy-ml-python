@@ -1200,6 +1200,10 @@ by [LazyProgrammer.me](https://LazyProgrammer.me)
 
 #### Bayesian Machine Learning in Python: A/B Testing
 
+#### Ensemble Machine Learning in Python: Random FOrest, AdaBoost
+
+#### Artificial Intelligence: Reinforcement Learning in Python
+
 
 
 
