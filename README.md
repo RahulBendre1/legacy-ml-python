@@ -1238,7 +1238,7 @@ by Matt Harrison
 ```
 °     Introduction
 °     Why Python?
-      Which Version of Python?
+°     Which Version of Python?
       The Interpreter
       Running Programs
       Writing and Reading Data
