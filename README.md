@@ -1247,6 +1247,7 @@ by Matt Harrison
       Numbers
       Strings
       dir, help and pdb
+      Strings and Methods
 
 
 ```
