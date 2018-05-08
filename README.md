@@ -1266,6 +1266,7 @@ by Matt Harrison
       Onto Bigger and Better
       File Navigation
       Useful Links
+      About the Author
 
   
   
