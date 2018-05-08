@@ -1252,6 +1252,7 @@ by Matt Harrison
       Conditionals and Whitespace
       Containers: List, Tuples, and Sets
       Iteration
+      Dictionaries
 
   
 ```
