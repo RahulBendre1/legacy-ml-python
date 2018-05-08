@@ -1257,7 +1257,9 @@ by Matt Harrison
       Indexing and Slicing
       File Input and Output
       Unicode
-      Classes
+      Classes 
+      Subclassing a Class
+
 
   
 ```
