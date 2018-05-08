@@ -1230,7 +1230,7 @@ by [Ivelin Demirov](https://www.amazon.com/Ivelin-Demirov/e/B00LELN358/ref=dp_by
 #### SQL for Marketers
 
 
-### Illustrated Guide to Python 3
+### Treading on Python Series: Illustrated Guide to Python 3
 by Matt Harrison
 , 2017
 , 181p
