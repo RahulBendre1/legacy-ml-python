@@ -1248,6 +1248,7 @@ by Matt Harrison
       Strings
       dir, help and pdb
       Strings and Methods
+      Comments, Booleand, and None
 
 
 ```
