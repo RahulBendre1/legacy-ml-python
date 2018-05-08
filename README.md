@@ -1246,6 +1246,7 @@ by Matt Harrison
       More About Objects
       Numbers
       Strings
+      dir, help and pdb
 
 
 ```
