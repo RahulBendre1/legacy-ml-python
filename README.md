@@ -1253,6 +1253,7 @@ by Matt Harrison
       Containers: List, Tuples, and Sets
       Iteration
       Dictionaries
+      Functions
 
   
 ```
