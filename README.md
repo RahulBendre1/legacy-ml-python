@@ -1256,6 +1256,7 @@ by Matt Harrison
       Functions
       Indexing and Slicing
       File Input and Output
+      Unicode
 
   
 ```
