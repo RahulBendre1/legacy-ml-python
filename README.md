@@ -1245,6 +1245,8 @@ by Matt Harrison
       Variables
       More About Objects
       Numbers
+      Strings
+
 
 ```
 
