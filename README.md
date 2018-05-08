@@ -1254,6 +1254,7 @@ by Matt Harrison
       Iteration
       Dictionaries
       Functions
+      Indexing and Slicing
 
   
 ```
