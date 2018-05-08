@@ -1236,7 +1236,7 @@ by Matt Harrison
 , 181p
 
 ```
-      Introduction
+°     Introduction
       Why Python?
       Which Version of Python?
       The Interpreter
