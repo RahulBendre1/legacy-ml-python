@@ -1268,8 +1268,7 @@ by Matt Harrison
       Useful Links
       About the Author
       Also Available
-
-  
-  
+      One More Thing
+ 
 ```
 
