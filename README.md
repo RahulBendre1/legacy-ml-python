@@ -1239,7 +1239,7 @@ by Matt Harrison
 °     Introduction
 °     Why Python?
 °     Which Version of Python?
-      The Interpreter
+°     The Interpreter
       Running Programs
       Writing and Reading Data
       Variables
