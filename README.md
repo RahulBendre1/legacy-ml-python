@@ -1303,4 +1303,8 @@ III   Imperative-Style Python                         179
 20    Documentation                                   245
 21    Debugging                                       257
 22    Accumulation Loop Patterns                      267
+23    Search Loop Patterns                            279
+24    Drawing                                         289
+25    Input and Output                                295
+26    Network Programs                                323
 
