@@ -1307,4 +1307,5 @@ III   Imperative-Style Python                         179
 24    Drawing                                         289
 25    Input and Output                                295
 26    Network Programs                                323
+27    Objects, Classes and Inheritance                335
 
