@@ -1275,4 +1275,6 @@ by Matt Harrison
 ## A Functional Start to Computing with Python
 by Ted Herman
 
+```
+I     Motivation and Background                         1
 
