@@ -1313,4 +1313,6 @@ III   Imperative-Style Python                         179
 
 IV    Appendices                                      383
 30    Advanced Topics                                 385
+31    Solutions to Star-Exercises                     389
+32    Reference Tables                                399
 
