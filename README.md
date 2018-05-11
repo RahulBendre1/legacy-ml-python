@@ -1286,4 +1286,5 @@ II    Functional-Style Python                          23
 5     Types                                            25
 6     Operators                                        41
 7     Expressions                                      55
+8     Printing                                         69
 
