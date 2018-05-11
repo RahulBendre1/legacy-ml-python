@@ -1297,6 +1297,7 @@ II    Functional-Style Python                          23
 12    Slice, Split, Join                              133
 13    Comprehensions                                  143
 14    Functional Patterns                             159
+      Case Study: Tic-Tac-Toe                         176
 
 III   Imperative-Style Python                         179
 15    Names for Data                                  181
