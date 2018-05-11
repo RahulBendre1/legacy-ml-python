@@ -1311,7 +1311,9 @@ III   Imperative-Style Python                         179
 22    Accumulation Loop Patterns                      267
 23    Search Loop Patterns                            279
 24    Drawing                                         289
+      Interlude: Animation Design                     293
 25    Input and Output                                295
+      Interlude: File Indexing                        315
 26    Network Programs                                323
 27    Objects, Classes and Inheritance                335
 28    Randomness, Time, and System Modules            351
