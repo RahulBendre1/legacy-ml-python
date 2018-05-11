@@ -1240,7 +1240,7 @@ by Matt Harrison
 °     Why Python?
 °     Which Version of Python?
 °     The Interpreter
-      Running Programs
+°     Running Programs
       Writing and Reading Data
       Variables
       More About Objects
