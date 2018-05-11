@@ -1274,6 +1274,7 @@ by Matt Harrison
 
 ## A Functional Start to Computing with Python
 by Ted Herman
+at [functionalfirstpython.com](http://functionalfirstpython.com)
 
 ```
 I     Motivation and Background                         1
@@ -1316,6 +1317,7 @@ III   Imperative-Style Python                         179
       Interlude: File Indexing                        315
 26    Network Programs                                323
 27    Objects, Classes and Inheritance                335
+      Interlude: Signal Processing                    347
 28    Randomness, Time, and System Modules            351
 29    Grphical User Interfaces                        361
 
