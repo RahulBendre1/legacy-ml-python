@@ -1280,4 +1280,6 @@ I     Motivation and Background                         1
 1     Inspirations of Computing                         3
 2     Preview of Computing with Python                  7
 3     General Landscape of Computing Languages         13
+4     Python Setup                                     17
+
 
