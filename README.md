@@ -1299,4 +1299,6 @@ III   Imperative-Style Python                         179
 16    Functions and Variables                         193
 17    Mutation                                        203
 18    Modules                                         213
+19    Repetition                                      225
+20    Documentation                                   245
 
