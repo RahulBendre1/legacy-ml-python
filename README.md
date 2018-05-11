@@ -1282,4 +1282,5 @@ I     Motivation and Background                         1
 3     General Landscape of Computing Languages         13
 4     Python Setup                                     17
 
+II    Functional-Style Python                          23
 
