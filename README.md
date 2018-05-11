@@ -1302,4 +1302,5 @@ III   Imperative-Style Python                         179
 19    Repetition                                      225
 20    Documentation                                   245
 21    Debugging                                       257
+22    Accumulation Loop Patterns                      267
 
