@@ -1305,6 +1305,7 @@ III   Imperative-Style Python                         179
 17    Mutation                                        203
 18    Modules                                         213
 19    Repetition                                      225
+      Interlude: Game Cycle                           239
 20    Documentation                                   245
 21    Debugging                                       257
 22    Accumulation Loop Patterns                      267
