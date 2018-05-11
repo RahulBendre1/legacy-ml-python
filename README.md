@@ -1284,11 +1284,15 @@ I     Motivation and Background                         1
 
 II    Functional-Style Python                          23
 5     Types                                            25
+      Interlude: An Inventory Problem                  39
 6     Operators                                        41
 7     Expressions                                      55
+      Interlude: Puzzles with Expressions              67
 8     Printing                                         69
 9     Functions I                                      81
 10    Functions II                                     93
+      Interlude: Table Lookup Functions               107
+      Exercises: Unit Testing and Online Supplement   109
 11    Conditional Logic                               119
 12    Slice, Split, Join                              133
 13    Comprehensions                                  143
