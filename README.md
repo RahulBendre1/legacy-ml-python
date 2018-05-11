@@ -1283,4 +1283,5 @@ I     Motivation and Background                         1
 4     Python Setup                                     17
 
 II    Functional-Style Python                          23
+5     Types                                            25
 
