@@ -1290,4 +1290,5 @@ II    Functional-Style Python                          23
 9     Functions I                                      81
 10    Functions II                                     93
 11    Conditional Logic                               119
+12    Slice, Split, Join                              133
 
