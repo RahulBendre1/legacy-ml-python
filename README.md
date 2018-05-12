@@ -1357,6 +1357,7 @@ I     Foundations                                       1
 1     Computer Systems and Software                     3
 2     Python Program Components                         7
 3     Functions                                        13
+4     Repetition: For Loops                            19
 
 
 II    Collections and Files                            59
