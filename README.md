@@ -1370,6 +1370,7 @@ II    Collections and Files                            59
       Project: Hangman                                107
 18    Dictionaries                                    109
       Project: ELIZA                                  115
+      Project: Shannon Entropy                        117
 
 
 
