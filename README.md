@@ -1361,9 +1361,11 @@ III   Selected Topics                                 121
 19    Sound Manipulation                              123
 20    Sound Synthesis                                 129
 21    Image Manipulation                              135
+      Project: Image Filters                          143
 22    Image Synthesis                                 147
 23    Writing Classes                                 153
 24    Cooperating Classes                             159
+      Case Study: PPM Image Class                     165
 25    Related Classes                                 169
 26    Functional Programming                          175
 27    Parallel Programming                            181
