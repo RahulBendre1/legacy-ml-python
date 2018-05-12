@@ -1344,6 +1344,6 @@ at 2017
 8     Less is More: Dimesionality Reduction                                                   285
 9     Kernel Tricks Up the Sleeve: Support Vector Machines                                    327
       Pipelines in Scikit-Learn                                                               355
-
+      Index                                                                                   369
 
 ```
