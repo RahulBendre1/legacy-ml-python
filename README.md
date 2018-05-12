@@ -1358,6 +1358,8 @@ I     Foundations                                       1
 II    Collections and Files                            59
 
 III   Selected Topics                                 121
+19    Sound Manipulation                              123
+   
 
       Bibliography                                    193
       Index                                           195
