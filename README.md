@@ -1356,6 +1356,10 @@ at 2012
 I     Foundations                                       1
 
 II    Collections and Files                            59
+11    Strings                                          61
+12    Building Strings                                 65
+
+
 
 III   Selected Topics                                 121
 19    Sound Manipulation                              123
