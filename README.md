@@ -1341,6 +1341,7 @@ at 2017
 5     Jackalopes and Hares: Clustering                181
 6     Unicorns and Horses: Classification             195
 7     Decisions, Decisions: Hierarchical CLustering, Decision Trees and Ensemble Techniques   241
+8     Less is More: Dimesionality Reduction                                                   285
 
 
 ```
