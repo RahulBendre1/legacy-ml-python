@@ -1364,8 +1364,8 @@ III   Selected Topics                                 121
 22    Image Synthesis                                 147
 23    Writing Classes                                 153
 24    Cooperating Classes                             159
-25    Related Classes                                 175
-
+25    Related Classes                                 169
+26    Functional Programming                          175
 
       Bibliography                                    193
       Index                                           195
