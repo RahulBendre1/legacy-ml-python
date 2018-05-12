@@ -1358,6 +1358,7 @@ I     Foundations                                       1
 2     Python Program Components                         7
 3     Functions                                        13
 4     Repetition: For Loops                            19
+5     Computer Memory: Integers                        25
 
 
 II    Collections and Files                            59
