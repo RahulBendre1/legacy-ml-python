@@ -1342,6 +1342,7 @@ at 2017
 6     Unicorns and Horses: Classification             195
 7     Decisions, Decisions: Hierarchical CLustering, Decision Trees and Ensemble Techniques   241
 8     Less is More: Dimesionality Reduction                                                   285
+9     Kernel Tricks Up the Sleeve: Support Vector Machines                                    327
 
 
 ```
