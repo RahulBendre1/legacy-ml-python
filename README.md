@@ -1362,6 +1362,7 @@ I     Foundations                                       1
 6     Selection: If Statements                         29
 7     Algorithm Design and Debugging                   37
 8     Repetition: While Loops                          41
+      Project: Newton's Method                         47
 
 
 II    Collections and Files                            59
