@@ -1319,7 +1319,7 @@ III   Imperative-Style Python                         179
 27    Objects, Classes and Inheritance                335
       Interlude: Signal Processing                    347
 28    Randomness, Time, and System Modules            351
-29    Grphical User Interfaces                        361
+29    Graphical User Interfaces                       361
 
 IV    Appendices                                      383
 30    Advanced Topics                                 385
