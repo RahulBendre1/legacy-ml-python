@@ -1364,6 +1364,7 @@ I     Foundations                                       1
 8     Repetition: While Loops                          41
       Project: Newton's Method                         47
 9     Computer Memory: Floats                          49
+10    Simulation                                       51
 
 
 II    Collections and Files                            59
