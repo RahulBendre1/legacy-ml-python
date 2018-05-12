@@ -1363,6 +1363,7 @@ I     Foundations                                       1
 7     Algorithm Design and Debugging                   37
 8     Repetition: While Loops                          41
       Project: Newton's Method                         47
+9     Computer Memory: Floats                          49
 
 
 II    Collections and Files                            59
