@@ -1330,6 +1330,7 @@ IV    Appendices                                      383
 ```
 
 ## Data Science and Analytics with Python
+by Jesus Rogel-Salazar
 
 
 
