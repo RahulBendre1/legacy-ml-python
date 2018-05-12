@@ -1356,6 +1356,7 @@ at 2012
 I     Foundations                                       1
 1     Computer Systems and Software                     3
 2     Python Program Components                         7
+3     Functions                                        13
 
 
 II    Collections and Files                            59
