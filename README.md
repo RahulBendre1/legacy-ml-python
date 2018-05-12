@@ -1340,6 +1340,7 @@ at 2017
 4     The Relationship Conundrum: Regression          131
 5     Jackalopes and Hares: Clustering                181
 6     Unicorns and Horses: Classification             195
+7     Decisions, Decisions: Hierarchical CLustering, Decision Trees and Ensemble Techniques   241
 
 
 ```
