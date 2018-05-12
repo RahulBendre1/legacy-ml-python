@@ -1418,6 +1418,7 @@ at 2016
 8     Data Analysis                                   351
 9     Flatland                                        443
 10    Self-similarity and Recursion                   477
+11    Organizing Data                                 541
 
 
 ```
