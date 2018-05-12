@@ -1365,7 +1365,7 @@ I     Foundations                                       1
       Project: Newton's Method                         47
 9     Computer Memory: Floats                          49
 10    Simulation                                       51
-
+      Project: Visualization                           57
 
 II    Collections and Files                            59
 11    Strings                                          61
