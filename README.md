@@ -1359,6 +1359,7 @@ I     Foundations                                       1
 3     Functions                                        13
 4     Repetition: For Loops                            19
 5     Computer Memory: Integers                        25
+6     Selection: If Statements                         29
 
 
 II    Collections and Files                            59
