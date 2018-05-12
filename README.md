@@ -1367,6 +1367,7 @@ II    Collections and Files                            59
 16    String Methods                                   93
       Project: File Compression                       101
 17    Mutable and Immutable Objects                   103
+      Project: Hangman                                107
 
 
 
