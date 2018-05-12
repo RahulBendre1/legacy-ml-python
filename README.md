@@ -1359,7 +1359,8 @@ II    Collections and Files                            59
 
 III   Selected Topics                                 121
 19    Sound Manipulation                              123
-   
+20    Sound Synthesis                                 129
+  
 
       Bibliography                                    193
       Index                                           195
