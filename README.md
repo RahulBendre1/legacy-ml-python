@@ -1363,6 +1363,7 @@ III   Selected Topics                                 121
 21    Image Manipulation                              135
 22    Image Synthesis                                 147
 23    Writing Classes                                 153
+24    Cooperating Classes                             159
 
 
       Bibliography                                    193
