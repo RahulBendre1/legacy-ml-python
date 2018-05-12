@@ -1371,8 +1371,7 @@ II    Collections and Files                            59
 18    Dictionaries                                    109
       Project: ELIZA                                  115
       Project: Shannon Entropy                        117
-
-
+      Project: Reading DNA Frames                     119
 
 III   Selected Topics                                 121
 19    Sound Manipulation                              123
