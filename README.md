@@ -1360,6 +1360,7 @@ I     Foundations                                       1
 4     Repetition: For Loops                            19
 5     Computer Memory: Integers                        25
 6     Selection: If Statements                         29
+7     Algorithm Design and Debugging                   37
 
 
 II    Collections and Files                            59
