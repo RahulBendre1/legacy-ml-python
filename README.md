@@ -1334,12 +1334,12 @@ by Jesus Rogel-Salazar
 at 2017
 
 ```
-1     Trials and Tribulations of a Data Scientist       1
-2     Python: For Something Completely Different       31
-3     The Machine that Goes "Ping": Machine Learning and Pattern Recognition    87
-4     The Relationship Conundrum: Regression          131
-5     Jackalopes and Hares: Clustering                181
-6     Unicorns and Horses: Classification             195
+1     Trials and Tribulations of a Data Scientist                                               1
+2     Python: For Something Completely Different                                               31
+3     The Machine that Goes "Ping": Machine Learning and Pattern Recognition                   87
+4     The Relationship Conundrum: Regression                                                  131
+5     Jackalopes and Hares: Clustering                                                        181
+6     Unicorns and Horses: Classification                                                     195
 7     Decisions, Decisions: Hierarchical CLustering, Decision Trees and Ensemble Techniques   241
 8     Less is More: Dimesionality Reduction                                                   285
 9     Kernel Tricks Up the Sleeve: Support Vector Machines                                    327
