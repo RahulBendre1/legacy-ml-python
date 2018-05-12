@@ -1366,6 +1366,7 @@ III   Selected Topics                                 121
 24    Cooperating Classes                             159
 25    Related Classes                                 169
 26    Functional Programming                          175
+27    Parallel Programming                            181
 
       Bibliography                                    193
       Index                                           195
