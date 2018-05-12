@@ -1339,6 +1339,7 @@ at 2017
 3     The Machine that Goes "Ping": Machine Learning and Pattern Recognition    87
 4     The Relationship Conundrum: Regression          131
 5     Jackalopes and Hares: Clustering                181
+6     Unicorns and Horses: Classification             195
 
 
 ```
