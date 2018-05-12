@@ -1362,6 +1362,7 @@ III   Selected Topics                                 121
 20    Sound Synthesis                                 129
 21    Image Manipulation                              135
 22    Image Synthesis                                 147
+23    Writing Classes                                 153
 
 
       Bibliography                                    193
