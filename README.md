@@ -1331,6 +1331,10 @@ IV    Appendices                                      383
 
 ## Data Science and Analytics with Python
 by Jesus Rogel-Salazar
+at 2017
+
+```
+1     Trials and Tribulations of a Data Scientist       1
 
 
-
+```
