@@ -1441,6 +1441,7 @@ by Abhishek Vijayvargia
 4     Data Visualization                               59
 5     Regression                                       77
 6     More on Regression                              100
+7     Classification                                  122
 
 ```
 
