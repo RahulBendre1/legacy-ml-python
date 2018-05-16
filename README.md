@@ -1444,6 +1444,7 @@ by Abhishek Vijayvargia
 7     Classification                                  122
 8     Un Supervised Learning                          162
 9     Text Analysis                                   182
+10    Neural Network and Deep Learning                201
 
 ```
 
