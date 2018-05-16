@@ -1440,6 +1440,7 @@ by Abhishek Vijayvargia
 3     Feature Engineering                              41
 4     Data Visualization                               59
 5     Regression                                       77
+6     More on Regression                              100
 
 ```
 
