@@ -1442,6 +1442,7 @@ by Abhishek Vijayvargia
 5     Regression                                       77
 6     More on Regression                              100
 7     Classification                                  122
+8     Un Supervised Learning                          162
 
 ```
 
