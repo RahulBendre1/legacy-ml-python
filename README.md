@@ -1438,6 +1438,7 @@ by Abhishek Vijayvargia
 1     Introduction to Machine Learning                  1
 2     Understanding Python                             20
 3     Feature Engineering                              41
+4     Data Visualization                               59
 
 ```
 
