@@ -1436,6 +1436,7 @@ by Abhishek Vijayvargia
 
 ```
 1     Introduction to Machine Learning                  1
+2     Understanding Python                             20
 
 ```
 
