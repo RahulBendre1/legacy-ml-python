@@ -1443,6 +1443,7 @@ by Abhishek Vijayvargia
 6     More on Regression                              100
 7     Classification                                  122
 8     Un Supervised Learning                          162
+9     Text Analysis                                   182
 
 ```
 
