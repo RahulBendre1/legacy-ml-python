@@ -1439,6 +1439,7 @@ by Abhishek Vijayvargia
 2     Understanding Python                             20
 3     Feature Engineering                              41
 4     Data Visualization                               59
+5     Regression                                       77
 
 ```
 
