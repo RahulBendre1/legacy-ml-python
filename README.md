@@ -1432,4 +1432,5 @@ B     Python Library Reference                        701
 
 
 ## Machine Learning with Python
+by Abhishek Vijayvargia
 
