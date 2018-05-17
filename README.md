@@ -1457,6 +1457,8 @@ by Samir Madhavan
 1     Getting Started with Raw Data                     1
 2     Inferential Statistics                           27
 3     Finding a Needle in a Haystack                   59
+4     Making Sense of Data through Advanced Visualization   77
+5     Uncovering Machine Learning                          107
 
 ```
 
