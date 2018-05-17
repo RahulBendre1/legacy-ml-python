@@ -1461,6 +1461,7 @@ by Samir Madhavan
 5     Uncovering Machine Learning                          107
 6     Performing Predictions with a Linear Regression      121
 7     Estimating the Likehood of Events                    139
+8     Generating Recommendations with Collaborative Filtering   155
 
 ```
 
