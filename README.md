@@ -1464,6 +1464,8 @@ by Samir Madhavan
 8     Generating Recommendations with Collaborative Filtering   155
 9     Pushing Boundaries with Ensemble Models                   173
 10    Applying Segmentation with k-means Clustering             193
+11    Analyzing Unstructured Data with Text Mining              211
+12    Leveraging Python in the World of Big Data                239
 
 ```
 
