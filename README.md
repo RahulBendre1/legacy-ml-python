@@ -1481,6 +1481,7 @@ by David Paper
 5     Working with Data                                 129
 6     Exploring Data                                    167
 
+      Index                                             211
 ```
 
 
