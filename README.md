@@ -1478,6 +1478,7 @@ by David Paper
 2     Monte Carlo Simulation and Density Functions       37
 3     Linear Algebra                                     67
 4     Gradient Descent                                   97
+5     Working with Data                                 129
 
 ```
 
