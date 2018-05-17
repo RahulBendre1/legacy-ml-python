@@ -1454,13 +1454,13 @@ by Abhishek Vijayvargia
 by Samir Madhavan
 
 ```
-1     Getting Started with Raw Data                     1
-2     Inferential Statistics                           27
-3     Finding a Needle in a Haystack                   59
-4     Making Sense of Data through Advanced Visualization   77
-5     Uncovering Machine Learning                          107
-6     Performing Predictions with a Linear Regression      121
-7     Estimating the Likehood of Events                    139
+1     Getting Started with Raw Data                               1
+2     Inferential Statistics                                     27
+3     Finding a Needle in a Haystack                             59
+4     Making Sense of Data through Advanced Visualization        77
+5     Uncovering Machine Learning                               107
+6     Performing Predictions with a Linear Regression           121
+7     Estimating the Likehood of Events                         139
 8     Generating Recommendations with Collaborative Filtering   155
 9     Pushing Boundaries with Ensemble Models                   173
 10    Applying Segmentation with k-means Clustering             193
