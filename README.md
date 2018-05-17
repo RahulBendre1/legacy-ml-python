@@ -1455,6 +1455,7 @@ by Samir Madhavan
 
 ```
 1     Getting Started with Raw Data                     1
+2     Inferential Statistics                           27
 
 ```
 
