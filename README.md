@@ -1463,6 +1463,7 @@ by Samir Madhavan
 7     Estimating the Likehood of Events                    139
 8     Generating Recommendations with Collaborative Filtering   155
 9     Pushing Boundaries with Ensemble Models                   173
+10    Applying Segmentation with k-means Clustering             193
 
 ```
 
