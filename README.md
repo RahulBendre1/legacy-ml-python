@@ -1462,6 +1462,7 @@ by Samir Madhavan
 6     Performing Predictions with a Linear Regression      121
 7     Estimating the Likehood of Events                    139
 8     Generating Recommendations with Collaborative Filtering   155
+9     Pushing Boundaries with Ensemble Models                   173
 
 ```
 
