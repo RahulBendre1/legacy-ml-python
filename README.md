@@ -1459,6 +1459,7 @@ by Samir Madhavan
 3     Finding a Needle in a Haystack                   59
 4     Making Sense of Data through Advanced Visualization   77
 5     Uncovering Machine Learning                          107
+6     Performing Predictions with a Linear Regression      121
 
 ```
 
