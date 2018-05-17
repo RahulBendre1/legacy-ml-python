@@ -1477,6 +1477,7 @@ by David Paper
 1     Introduction                                        1
 2     Monte Carlo Simulation and Density Functions       37
 3     Linear Algebra                                     67
+4     Gradient Descent                                   97
 
 ```
 
