@@ -1456,6 +1456,7 @@ by Samir Madhavan
 ```
 1     Getting Started with Raw Data                     1
 2     Inferential Statistics                           27
+3     Finding a Needle in a Haystack                   59
 
 ```
 
