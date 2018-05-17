@@ -1479,6 +1479,7 @@ by David Paper
 3     Linear Algebra                                     67
 4     Gradient Descent                                   97
 5     Working with Data                                 129
+6     Exploring Data                                    167
 
 ```
 
