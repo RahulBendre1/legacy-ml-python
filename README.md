@@ -1451,5 +1451,7 @@ by Abhishek Vijayvargia
 ```
 
 ## Mastering Python for Data Science
+by Samir Madhavan
+
 
 
