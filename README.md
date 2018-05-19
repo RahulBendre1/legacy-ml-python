@@ -1493,6 +1493,7 @@ by David Paper
 4     Build Web Apps with Pyramid
 5     Source Control with Git
 6     Digging Further with Git
+7     Web Design Foundations
 
 ```
 
