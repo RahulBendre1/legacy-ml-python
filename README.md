@@ -1492,6 +1492,7 @@ by David Paper
 3     Python Language Refresher
 4     Build Web Apps with Pyramid
 5     Source Control with Git
+6     Digging Further with Git
 
 ```
 
