@@ -1503,6 +1503,7 @@ by David Paper
 14    SEO and Content Marketing
 15    Deploying to the Cloud
 16    Making Money (Credit Cards and Business)
+17    Monitoring and Logging in Production
 
 ```
 
