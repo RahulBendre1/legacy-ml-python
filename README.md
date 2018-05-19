@@ -1495,6 +1495,7 @@ by David Paper
 6     Digging Further with Git
 7     Web Design Foundations
 8     Build Web Apps with Pyramid Applied Web Development
+9     Web Design CSS Frontend Frameworks and Bootstrap
 
 ```
 
