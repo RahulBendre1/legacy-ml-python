@@ -1502,6 +1502,7 @@ by David Paper
 13    Sending and Receiving Email
 14    SEO and Content Marketing
 15    Deploying to the Cloud
+16    Making Money (Credit Cards and Business)
 
 ```
 
