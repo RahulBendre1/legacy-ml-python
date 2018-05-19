@@ -1494,6 +1494,7 @@ by David Paper
 5     Source Control with Git
 6     Digging Further with Git
 7     Web Design Foundations
+8     Build Web Apps with Pyramid Applied Web Development
 
 ```
 
