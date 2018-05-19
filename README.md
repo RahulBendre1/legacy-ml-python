@@ -1505,6 +1505,7 @@ by David Paper
 16    Making Money (Credit Cards and Business)
 17    Monitoring and Logging in Production
 18    Getting Help (Contracting, Design and More)
+19    Growth Hacking Basics
 
 ```
 
