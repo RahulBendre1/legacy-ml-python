@@ -1489,6 +1489,7 @@ by David Paper
 ```
 1     Welcome to the Course
 2     Course Setup and Tooling
+3     Python Language Refresher
 
 ```
 
