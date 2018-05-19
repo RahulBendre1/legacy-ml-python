@@ -1504,6 +1504,7 @@ by David Paper
 15    Deploying to the Cloud
 16    Making Money (Credit Cards and Business)
 17    Monitoring and Logging in Production
+18    Getting Help (Contracting, Design and More)
 
 ```
 
