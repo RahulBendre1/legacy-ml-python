@@ -1496,6 +1496,7 @@ by David Paper
 7     Web Design Foundations
 8     Build Web Apps with Pyramid Applied Web Development
 9     Web Design CSS Frontend Frameworks and Bootstrap
+10    Accessing Databases from Python SQLAlchemy ORM
 
 ```
 
