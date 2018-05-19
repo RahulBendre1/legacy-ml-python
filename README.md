@@ -1491,6 +1491,7 @@ by David Paper
 2     Course Setup and Tooling
 3     Python Language Refresher
 4     Build Web Apps with Pyramid
+5     Source Control with Git
 
 ```
 
