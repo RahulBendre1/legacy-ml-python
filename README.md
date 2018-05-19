@@ -1498,6 +1498,7 @@ by David Paper
 9     Web Design CSS Frontend Frameworks and Bootstrap
 10    Accessing Databases from Python SQLAlchemy ORM
 11    Building Your EMail List
+12    User Accounts and Identity
 
 ```
 
