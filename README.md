@@ -1501,6 +1501,7 @@ by David Paper
 12    User Accounts and Identity
 13    Sending and Receiving Email
 14    SEO and Content Marketing
+15    Deploying to the Cloud
 
 ```
 
