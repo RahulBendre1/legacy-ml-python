@@ -1500,6 +1500,7 @@ by David Paper
 11    Building Your EMail List
 12    User Accounts and Identity
 13    Sending and Receiving Email
+14    SEO and Content Marketing
 
 ```
 
