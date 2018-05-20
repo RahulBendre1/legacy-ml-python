@@ -1520,5 +1520,7 @@ by David Paper
 4     Manipulate Files and Folders
 5     Handle Common File Formats
 6     Processing Images
+7     Interacting with Websites
 
 ```
+
