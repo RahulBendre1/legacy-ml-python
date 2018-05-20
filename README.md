@@ -1511,3 +1511,5 @@ by David Paper
 ```
 
 
+## Python for Everyday Life
+
