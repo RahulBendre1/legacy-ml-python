@@ -1518,5 +1518,6 @@ by David Paper
 2     Finding the Right Tool for the Job
 3     Advanced Python Topics
 4     Manipulate Files and Folders
+5     Handle Common File Formats
 
 ```
