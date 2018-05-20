@@ -1528,6 +1528,7 @@ by David Paper
 12    Python and Databases
 13    Publish Your Curriculum Vitae as an API on Django
 14    A Facebook Messenger Bot Based on Flask and Heroku
+15    Datasets Manipulation and Visualization with Jupyter and Pandas
 
 ```
 
