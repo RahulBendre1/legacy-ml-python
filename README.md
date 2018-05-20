@@ -1519,5 +1519,6 @@ by David Paper
 3     Advanced Python Topics
 4     Manipulate Files and Folders
 5     Handle Common File Formats
+6     Processing Images
 
 ```
