@@ -1523,6 +1523,7 @@ by David Paper
 7     Interacting with Websites
 8     The Power of APIs
 9     Automate Common Internet Tasks
+10    Anatomy of a Web Application
 
 ```
 
