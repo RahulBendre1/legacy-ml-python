@@ -1525,6 +1525,7 @@ by David Paper
 9     Automate Common Internet Tasks
 10    Anatomy of a Web Application
 11    Build a Simple Static Website Using Flask and Bootstrap
+12    Python and Databases
 
 ```
 
