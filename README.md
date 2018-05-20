@@ -1526,6 +1526,7 @@ by David Paper
 10    Anatomy of a Web Application
 11    Build a Simple Static Website Using Flask and Bootstrap
 12    Python and Databases
+13    Publish Your Curriculum Vitae as an API on Django
 
 ```
 
