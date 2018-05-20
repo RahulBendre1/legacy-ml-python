@@ -1522,6 +1522,7 @@ by David Paper
 6     Processing Images
 7     Interacting with Websites
 8     The Power of APIs
+9     Automate Common Internet Tasks
 
 ```
 
