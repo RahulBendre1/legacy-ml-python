@@ -1517,5 +1517,6 @@ by David Paper
 1     Programmers Tooling
 2     Finding the Right Tool for the Job
 3     Advanced Python Topics
+4     Manipulate Files and Folders
 
 ```
