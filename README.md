@@ -262,7 +262,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Dictionaries and Sets                    12
 - Blocks and Loops                         14
 - Iterables, Generator Expressions         15
-- Writing Scripts, Modules
+- Writing Scripts, Modules                 17
 - Defining and Calling Functions
 - Generators
 - Call by Reference (to Objects)
