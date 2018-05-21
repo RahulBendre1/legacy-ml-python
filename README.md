@@ -255,7 +255,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Numbers, etc                              3
 - Strings                                   5
 - String Functions and Methods              6
-- Print and String Formatting
+- Print and String Formatting               7
 - Tuples, Lists
 - Sequence Indexing and Slicing
 - List Comprehensions and Sort
