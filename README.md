@@ -268,7 +268,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Call by Reference (to Objects)           19
 - Classes and Instances                    20
 - Exceptions                               21
-- Standard Library Tour
+- Standard Library Tour                    21
 - Standard class methods
 - Function Parameters
 - Files
