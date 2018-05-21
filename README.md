@@ -261,7 +261,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - List Comprehensions and Sort             11
 - Dictionaries and Sets                    12
 - Blocks and Loops                         14
-- Iterables, Generator Expressions
+- Iterables, Generator Expressions         15
 - Writing Scripts, Modules
 - Defining and Calling Functions
 - Generators
