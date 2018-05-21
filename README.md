@@ -251,8 +251,8 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 ```
 - Overview                                  1
 - Objects                                   1
-- Names
-- Numbers, etc
+- Names                                     2
+- Numbers, etc                              3
 - Strings
 - String Functions and Methods
 - Print and String Formatting
