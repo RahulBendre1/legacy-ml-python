@@ -263,8 +263,8 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Blocks and Loops                         14
 - Iterables, Generator Expressions         15
 - Writing Scripts, Modules                 17
-- Defining and Calling Functions           18
-- Generators
+- Defining and Calling Functions           17
+- Generators                               18
 - Call by Reference (to Objects)
 - Classes and Instances
 - Exceptions
