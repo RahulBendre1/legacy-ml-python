@@ -270,7 +270,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Exceptions                               21
 - Standard Library Tour                    21
 - Standard class Methods                   21
-- Function Parameters
+- Function Parameters                      22
 - Files
 - Tutorial Survey
 ```
