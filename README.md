@@ -258,7 +258,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Print and String Formatting               7
 - Tuples, Lists                             8
 - Sequence Indexing and Slicing            10
-- List Comprehensions and Sort
+- List Comprehensions and Sort             11
 - Dictionaries and Sets
 - Blocks and Loops
 - Iterables, Generator Expressions
