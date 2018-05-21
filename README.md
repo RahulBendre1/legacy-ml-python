@@ -267,7 +267,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Generators                               18
 - Call by Reference (to Objects)           19
 - Classes and Instances                    20
-- Exceptions
+- Exceptions                               21
 - Standard Library Tour
 - Standard class methods
 - Function Parameters
