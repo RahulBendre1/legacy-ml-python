@@ -265,7 +265,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Writing Scripts, Modules                 17
 - Defining and Calling Functions           17
 - Generators                               18
-- Call by Reference (to Objects)
+- Call by Reference (to Objects)           19
 - Classes and Instances
 - Exceptions
 - Standard Library Tour
