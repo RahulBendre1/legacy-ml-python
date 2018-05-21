@@ -272,7 +272,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Standard class Methods                   21
 - Function Parameters                      22
 - Files                                    23
-- Tutorial Survey
+- Tutorial Survey                          23
 ```
 
 
