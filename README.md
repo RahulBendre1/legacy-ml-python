@@ -250,7 +250,7 @@ by [Stuart Williams](http://swilliams.ca)
 Twitter/[ceilous](https://twitter.com/ceilous)
 ```
 - Overview                                  1
-- Objects
+- Objects                                   1
 - Names
 - Numbers, etc
 - Strings
