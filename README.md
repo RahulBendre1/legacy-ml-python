@@ -249,7 +249,7 @@ tag
 by [Stuart Williams](http://swilliams.ca)
 Twitter/[ceilous](https://twitter.com/ceilous)
 ```
-- Overview                                  1   [02:00](https://youtu.be/9k5687mmnoc?t=2m0s)
+- Overview                                  1   (02:00)[https://youtu.be/9k5687mmnoc?t=2m0s]
 - Objects                                   1
 - Names                                     2
 - Numbers, etc                              3
