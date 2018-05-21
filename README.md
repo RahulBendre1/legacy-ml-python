@@ -269,7 +269,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Classes and Instances                    20
 - Exceptions                               21
 - Standard Library Tour                    21
-- Standard class methods
+- Standard class Methods                   21
 - Function Parameters
 - Files
 - Tutorial Survey
