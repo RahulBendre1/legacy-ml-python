@@ -253,7 +253,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Objects                                   1
 - Names                                     2
 - Numbers, etc                              3
-- Strings
+- Strings                                   5
 - String Functions and Methods
 - Print and String Formatting
 - Tuples, Lists
