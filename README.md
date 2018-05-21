@@ -259,7 +259,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - Tuples, Lists                             8
 - Sequence Indexing and Slicing            10
 - List Comprehensions and Sort             11
-- Dictionaries and Sets                   
+- Dictionaries and Sets                    12
 - Blocks and Loops
 - Iterables, Generator Expressions
 - Writing Scripts, Modules
