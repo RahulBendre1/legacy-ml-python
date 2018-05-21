@@ -257,7 +257,7 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 - String Functions and Methods              6
 - Print and String Formatting               7
 - Tuples, Lists                             8
-- Sequence Indexing and Slicing
+- Sequence Indexing and Slicing            10
 - List Comprehensions and Sort
 - Dictionaries and Sets
 - Blocks and Loops
