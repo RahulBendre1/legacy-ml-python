@@ -250,10 +250,9 @@ by [Stuart Williams](http://swilliams.ca)
 Twitter/[ceilous](https://twitter.com/ceilous)
 
 [02:00](https://youtu.be/9k5687mmnoc?t=2m0s)  `01 Overview`
-
+[02:00](https://youtu.be/9k5687mmnoc?t=5m25s) `01 Objects`                                   1
 
 ```
-- Objects                                   1
 - Names                                     2
 - Numbers, etc                              3
 - Strings                                   5
