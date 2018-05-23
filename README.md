@@ -253,12 +253,12 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 [02:00](https://youtu.be/9k5687mmnoc?t=5m25s) `01 Objects`
 
 ```
-- Names                                     2
-- Numbers, etc                              3
-- Strings                                   5
-- String Functions and Methods              6
-- Print and String Formatting               7
-- Tuples, Lists                             8
+- Names                                    02
+- Numbers, etc                             03
+- Strings                                  05
+- String Functions and Methods             06
+- Print and String Formatting              07
+- Tuples, Lists                            08
 - Sequence Indexing and Slicing            10
 - List Comprehensions and Sort             11
 - Dictionaries and Sets                    12
