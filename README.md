@@ -245,7 +245,7 @@ tag
 
 
 
-## [PyCon 2016 Python by Immersion](https://www.youtube.com/watch?v=9k5687mmnoc)
+## [PyCon 2016 Python by Immersion](https://www.youtu.be/9k5687mmnoc)
 by [Stuart Williams](http://swilliams.ca)
 Twitter/[ceilous](https://twitter.com/ceilous)
 
