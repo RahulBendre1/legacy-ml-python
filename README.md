@@ -253,28 +253,28 @@ Twitter/[ceilous](https://twitter.com/ceilous)
 [02:00](https://youtu.be/9k5687mmnoc?t=5m25s) `01 Objects`
 
 ```
-- Names                                    02
-- Numbers, etc                             03
-- Strings                                  05
-- String Functions and Methods             06
-- Print and String Formatting              07
-- Tuples, Lists                            08
-- Sequence Indexing and Slicing            10
-- List Comprehensions and Sort             11
-- Dictionaries and Sets                    12
-- Blocks and Loops                         14
-- Iterables, Generator Expressions         15
-- Writing Scripts, Modules                 17
-- Defining and Calling Functions           17
-- Generators                               18
-- Call by Reference (to Objects)           19
-- Classes and Instances                    20
-- Exceptions                               21
-- Standard Library Tour                    21
-- Standard class Methods                   21
-- Function Parameters                      22
-- Files                                    23
-- Tutorial Survey                          23
+02 Names                                    02
+03 Numbers, etc                             03
+05 Strings                                  05
+06 String Functions and Methods             06
+07 Print and String Formatting              07
+08 Tuples, Lists                            08
+10 Sequence Indexing and Slicing            10
+11 List Comprehensions and Sort             11
+12 Dictionaries and Sets                    12
+14 Blocks and Loops                         14
+15 Iterables, Generator Expressions         15
+17 Writing Scripts, Modules                 17
+17 Defining and Calling Functions           17
+18 Generators                               18
+19 Call by Reference (to Objects)           19
+20 Classes and Instances                    20
+21 Exceptions                               21
+21 Standard Library Tour                    21
+21 Standard class Methods                   21
+22 Function Parameters                      22
+23 Files                                    23
+23 Tutorial Survey                          23
 ```
 
 
